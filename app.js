@@ -268,7 +268,7 @@ function renderTeam() {
       <td>${h.gf}:${h.ga}</td></tr>`).join("");
 
   let html = "", curDate = null;
-  for (const r of rows) {
+  for (const r of [...rows].reverse()) {   // сначала — самые свежие матчи
     if (r.g.date !== curDate) { curDate = r.g.date; html += `<div class="day">${esc(r.g.date)}</div>`; }
     const score = r.sc ? (r.home ? `${r.sc[0]}:${r.sc[1]}` : `${r.sc[1]}:${r.sc[0]}`) : "анонс";
     html += `<div class="game-row">
