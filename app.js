@@ -184,7 +184,7 @@ function renderGames() {
   });
 
   let html = "", curDate = null;
-  for (const g of list) {
+  for (const g of [...list].reverse()) {   // сначала — самые новые матчи
     if (g.date !== curDate) {
       curDate = g.date;
       html += `<div class="day">${esc(g.date)} · сезон ${esc(g.season)}</div>`;
