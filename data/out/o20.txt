@@ -1,0 +1,55 @@
+file: p5553_1.jpg
+type: match_card
+date: 06.06.2025 | time: 18:00 | venue: Кагальник | home: Сальск 2012 | away: Успех 2012 | score: 22:77 | kind: result
+
+file: p5553_2.jpg
+type: photo
+note: Free throws being shot on an outdoor court, kids in green and orange jerseys with referee, RBA logo watermark.
+
+file: p5553_3.jpg
+type: photo
+note: Game action on outdoor court, tip-off/jump ball with referee in purple shirt, players in red and green jerseys.
+
+file: p5553_4.jpg
+type: photo
+note: Game action, player in green dribbling against defender in red jersey (#15) on outdoor court.
+
+file: p5553_5.jpg
+type: photo
+note: Game action, player in orange jersey #78 (ТУАПСЕ БАСКЕТБОЛЬНАЯ АКАДЕМИЯ on back) dribbling against green-jersey defender.
+
+file: p5557_0.jpg
+type: photo
+note: Team photo of girls' team in black-pink jerseys (Ростов-Дон) with gold medals and coach in a sports hall.
+
+file: p5557_1.jpg
+type: photo
+note: Team photo of the same girls' team (Ростов-Дон, 2010-2011) in black-pink jerseys with gold medals and coach in a sports hall.
+
+file: p5557_2.jpg
+type: photo
+note: Coach awarding gold medals to the girls' team (Ростов-Дон) in black-pink jerseys in a sports hall.
+
+file: p5563_0.jpg
+type: match_card
+date: 06.06.2025 | time: 18:00 | venue: Кагальник | home: Сальск 2012 | away: Успех 2012 | score: 22:77 | kind: result
+
+file: p5563_1.jpg
+type: match_card
+date: 06.06.2025 | time: 18:00 | venue: Кагальник | home: Сальск 2012 | away: Успех 2012 | score: 22:77 | kind: result
+
+file: p5568_0.jpg
+type: match_card
+date: 18.06.2025 | time: 18:00 | venue: Кагальник | home: Русич 2009 | away: Кагальник 2009 | score: 157:16 | kind: result
+
+file: p5568_1.jpg
+type: match_card
+date: 18.06.2025 | time: 18:00 | venue: Кагальник | home: Русич 2009 | away: Кагальник 2009 | score: 157:16 | kind: result
+
+file: p5570_0.jpg
+type: match_card
+date: 20.06.2025 | time: 13:30 | venue: Кагальник | home: Сальск 2012 | away: Кагальник 2012 | score: 35:72 | kind: result
+
+file: p5570_1.jpg
+type: match_card
+date: 20.06.2025 | time: 13:30 | venue: Кагальник | home: Сальск 2012 | away: Кагальник 2012 | score: 35:72 | kind: result

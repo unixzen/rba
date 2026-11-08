@@ -1,0 +1,55 @@
+file: p5070_0.jpg
+type: match_card
+date: 23.11.2024 | time: 11:00 | venue: Панфилова 4 | home: Волгодонск 2009 | away: Кагальник | score: 86:14 | kind: result
+
+file: p5070_1.jpg
+type: match_card
+date: 23.11.2024 | time: 11:00 | venue: Панфилова 4 | home: Волгодонск 2009 | away: Кагальник | score: 86:14 | kind: result
+
+file: p5070_2.jpg
+type: match_card
+date: 23.11.2024 | time: 12:20 | venue: Панфилова 4 | home: Волгодонск 2009 | away: Легион Север | score: 41:42 | kind: result
+
+file: p5081_0.jpg
+type: match_card
+date: 01.12.2024 | time: 14:00 | venue: Белорусская 86 | home: Волгодонск 2012 | away: Сальск 2012 | score: - | kind: announcement
+
+file: p5081_1.jpg
+type: match_card
+date: 01.12.2024 | time: 14:00 | venue: Белорусская 86 | home: Волгодонск 2012 | away: Сальск 2012 | score: - | kind: announcement
+
+file: p5081_2.jpg
+type: match_card
+date: 01.12.2024 | time: 15:20 | venue: Белорусская 86 | home: ДЮСШ-7 | away: Афалины | score: - | kind: announcement
+
+file: p5081_3.jpg
+type: match_card
+date: 01.12.2024 | time: 16:40 | venue: Белорусская 86 | home: Шаг Вперёд | away: Сальск 2012 | score: - | kind: announcement
+
+file: p5086_0.jpg
+type: match_card
+date: 01.12.2024 | time: 14:00 | venue: Белорусская 86 | home: Волгодонск 2012 | away: Сальск 2012 | score: 72:28 | kind: result
+
+file: p5086_1.jpg
+type: match_card
+date: 01.12.2024 | time: 14:00 | venue: Белорусская 86 | home: Волгодонск 2012 | away: Сальск 2012 | score: 72:28 | kind: result
+
+file: p5086_2.jpg
+type: match_card
+date: 01.12.2024 | time: 15:20 | venue: Белорусская 86 | home: ДЮСШ-7 | away: Афалины | score: 30:57 | kind: result
+
+file: p5086_3.jpg
+type: match_card
+date: 01.12.2024 | time: 16:40 | venue: Белорусская 86 | home: Шаг Вперёд | away: Сальск 2012 | score: 44:33 | kind: result
+
+file: p5094_0.jpg
+type: match_card
+date: 07.12.2024 | time: 11:00 | venue: Панфилова 4 | home: Ростовчанки | away: Дивы Буэна Суэрта | score: - | kind: announcement
+
+file: p5094_1.jpg
+type: match_card
+date: 07.12.2024 | time: 11:00 | venue: Панфилова 4 | home: Ростовчанки | away: Дивы Буэна Суэрта | score: - | kind: announcement
+
+file: p5094_2.jpg
+type: match_card
+date: 07.12.2024 | time: 12:30 | venue: Панфилова 4 | home: Легион Север | away: Кагальник 2009 | score: - | kind: announcement

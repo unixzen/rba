@@ -1,0 +1,55 @@
+file: p6562_0.jpg
+type: other
+note: Collage cover "RBA Kids 5s" with central RBA basketball logo surrounded by club logos (Университет, Спартак-type player logo, I.S. Basketball Academy, Легион, СШ №5, БК Урожай, СШ №7, Белые Афалины, Импульс, Академия баскетбола Ткаченко, Кагальник).
+
+file: p6562_1.jpg
+type: other
+note: Same "RBA Kids 5s" club-logo collage cover as p6562_0 (higher resolution duplicate).
+
+file: p6572_0.jpg
+type: other
+note: Collage of NBA club logos (Grizzlies, Miami Heat, Boston Celtics, Seattle SuperSonics, Denver Nuggets, Chicago Bulls, Sacramento Kings, Minnesota Timberwolves, Los Angeles Lakers and others) with central RBA logo; caption "Чемпионат RBA, 8 сезон (2025 - 2026гг.)".
+
+file: p6572_1.jpg
+type: other
+note: Small duplicate of the NBA-logo championship collage "Чемпионат RBA, 8 сезон (2025 - 2026гг.)".
+
+file: p6657_0.jpg
+type: photo
+note: Young player in blue SAC #15 jersey walking on an indoor court.
+
+file: p6657_1.jpg
+type: photo
+note: Same photo of the player in blue SAC #15 jersey on the court (higher resolution duplicate).
+
+file: p6747_0.jpg
+type: other
+note: Announcement poster "RBA KIDS БУДЕТ СОТРУДНИЧАТЬ В НОВОМ СЕЗОНЕ С ФЕДЕРАЦИЕЙ БАСКЕТБОЛА РОСТОВСКОЙ ОБЛАСТИ" with RBA and Федерация баскетбола Ростовской области logos; goals: развитие детского баскетбола, поддержка юных спортсменов, новые возможности для спортивного роста.
+
+file: p6747_1.jpg
+type: other
+note: Same RBA × Федерация баскетбола Ростовской области cooperation poster (higher resolution duplicate).
+
+file: p6755_0.jpg
+type: match_card
+date: 04.10.2026 | time: 09:00 | venue: ПАНФИЛОВА 4 | home: СПАРТА | away: БЕЛЫЕ АФАЛИНЫ | score: 108:25 | kind: result
+
+file: p6755_1.jpg
+type: match_card
+date: 04.10.2026 | time: 09:00 | venue: ПАНФИЛОВА 4 | home: СПАРТА | away: БЕЛЫЕ АФАЛИНЫ | score: 108:25 | kind: result
+
+file: p6755_2.jpg
+type: match_card
+date: 04.10.2026 | time: 11:40 | venue: ПАНФИЛОВА 4 | home: ФОРВАРД-1 | away: ДЮСШ №7 | score: 74:71 | kind: result (после ОТ — after overtime)
+
+file: p6755_3.jpg
+type: match_card
+date: 04.10.2026 | time: 10:20 | venue: ПАНФИЛОВА 4 | home: ФОРВАРД-2 | away: КАГАЛЬНИК | score: 89:34 | kind: result
+
+file: p6755_4.jpg
+type: match_card
+date: 04.10.2026 | time: 13:00 | venue: ПАНФИЛОВА 4 | home: ДЮСШ №7 | away: I.S.B.A. 2016 | score: 46:24 | kind: result
+
+file: p6755_5.jpg
+type: match_card
+date: 04.10.2026 | time: 15:40 | venue: БЕЛОРУССКАЯ 86 | home: СШ №7-1 | away: АМТ 2012 | score: 103:26 | kind: result

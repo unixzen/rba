@@ -1,0 +1,55 @@
+file: p5052_19.jpg
+type: match_card
+date: 10.11.2024 | time: 15:00 | venue: Панфилова 4 | home: Афалины | away: Дивы Буэна Суэрта | score: - | kind: announcement
+
+file: p5052_20.jpg
+type: match_card
+date: 10.11.2024 | time: 15:00 | venue: Панфилова 4 | home: Афалины | away: Дивы Буэна Суэрта | score: - | kind: announcement
+
+file: p5052_21.jpg
+type: match_card
+date: 10.11.2024 | time: 15:00 | venue: Панфилова 4 | home: Афалины | away: Дивы Буэна Суэрта | score: - | kind: announcement
+
+file: p5052_4.jpg
+type: match_card
+date: 10.11.2024 | time: 13:30 | venue: Панфилова 4 | home: Ростовчанки | away: Легион Юг | score: - | kind: announcement
+
+file: p5052_5.jpg
+type: match_card
+date: 10.11.2024 | time: 13:30 | venue: Панфилова 4 | home: Ростовчанки | away: Легион Юг | score: - | kind: announcement
+
+file: p5052_6.jpg
+type: match_card
+date: 10.11.2024 | time: 13:30 | venue: Панфилова 4 | home: Ростовчанки | away: Легион Юг | score: - | kind: announcement
+
+file: p5052_7.jpg
+type: match_card
+date: 10.11.2024 | time: 13:30 | venue: Панфилова 4 | home: Ростовчанки | away: Легион Юг | score: - | kind: announcement
+
+file: p5052_8.jpg
+type: match_card
+date: 10.11.2024 | time: 13:30 | venue: Панфилова 4 | home: Ростовчанки | away: Легион Юг | score: - | kind: announcement
+
+file: p5052_9.jpg
+type: match_card
+date: 10.11.2024 | time: 13:30 | venue: Панфилова 4 | home: Ростовчанки | away: Легион Юг | score: - | kind: announcement
+
+file: p5055_0.jpg
+type: match_card
+date: 16.11.2024 | time: 15:00 | venue: Дачная 8а | home: Кагальник | away: Шаг Вперёд | score: - | kind: announcement
+
+file: p5055_1.jpg
+type: match_card
+date: 16.11.2024 | time: 15:00 | venue: Дачная 8а | home: Кагальник | away: Шаг Вперёд | score: - | kind: announcement
+
+file: p5055_2.jpg
+type: match_card
+date: 16.11.2024 | time: 16:20 | venue: Дачная 8а | home: ЮФУ - 1 | away: ЮФУ - 2 | score: - | kind: announcement
+
+file: p5057_0.jpg
+type: match_card
+date: 16.11.2024 | time: 15:00 | venue: Дачная 8а | home: Кагальник | away: Шаг Вперёд | score: 32:21 | kind: result
+
+file: p5057_1.jpg
+type: match_card
+date: 16.11.2024 | time: 15:00 | venue: Дачная 8а | home: Кагальник | away: Шаг Вперёд | score: 32:21 | kind: result

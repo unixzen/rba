@@ -1,0 +1,55 @@
+file: p4840_0.jpg
+type: photo
+note: Game action photo — player in teal/red "Волны" jersey dribbling up court in an indoor gym, RBA watermark bottom-left.
+
+file: p4840_1.jpg
+type: photo
+note: Same game action photo as p4840_0 in higher resolution — player in teal/red "Волны" jersey dribbling, teammate running alongside.
+
+file: p4866_0.jpg
+type: other
+note: Video cover thumbnail ("4 s") — RBA basketball logo over a faded photo of two teams lined up, caption "RBA Kids 4 s".
+
+file: p4866_1.jpg
+type: other
+note: Same video cover thumbnail in higher resolution — RBA logo over faded team line-up photo, caption "RBA Kids 4 s".
+
+file: p4870_0.jpg
+type: photo
+note: Game action photo — player in teal "Волны" jersey running in indoor gym, teammates and an opponent in red (#8) near the basket, RBA watermark.
+
+file: p4870_1.jpg
+type: photo
+note: Same game action photo in higher resolution — teal "Волны" players vs red-team opponent (#8 with ball) under the hoop.
+
+file: p4878_0.jpg
+type: photo
+note: Outdoor streetball game photo — adult player in blue "Волгодонск #10" jersey (tiger logo) backing down a defender, spectators in background.
+
+file: p4878_1.jpg
+type: photo
+note: Same streetball photo in higher resolution — "Волгодонск #10" player in blue holding the ball while defended.
+
+file: p4890_0.jpg
+type: photo
+note: Game action photo — girl in black/pink "СДЮШОР / СШ ИНТЕР #24" jersey dribbling in indoor gym, RBA watermark.
+
+file: p4890_1.jpg
+type: photo
+note: Same game action photo in higher resolution — girl in black/pink jersey #24 dribbling up the court.
+
+file: p4976_0.jpg
+type: match_card
+date: 19.10.2024 | time: 15:30 | venue: Дачная 8а | home: ЮФУ - 1 | away: Ростовчанки | score: 76:36 | kind: result
+
+file: p4976_1.jpg
+type: match_card
+date: 19.10.2024 | time: 15:30 | venue: Дачная 8а | home: ЮФУ - 1 | away: Ростовчанки | score: 76:36 | kind: result
+
+file: p4976_2.jpg
+type: match_card
+date: 19.10.2024 | time: 16:40 | venue: Дачная 8а | home: Афалины | away: ЮФУ - 2 | score: 17:66 | kind: result
+
+file: p4991_0.jpg
+type: match_card
+date: 19.10.2024 | time: 16:40 | venue: Дачная 8а | home: Афалины | away: ЮФУ - 2 | score: | kind: announcement

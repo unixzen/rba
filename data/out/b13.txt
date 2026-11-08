@@ -1,0 +1,73 @@
+file: p6455_0.jpg
+type: photo
+note: Team photo — orange "РБА КИДС АКАДЕМИЯ" jerseys with gold medals and trophy, coach in purple shirt, indoor court.
+
+file: p6455_1.jpg
+type: photo
+note: Team photo — same orange "РБА КИДС АКАДЕМИЯ" team with gold medals, small cup and trophy, coach in purple shirt.
+
+file: p6455_2.jpg
+type: photo
+note: Team photo — maroon/burgundy "ДЮСШ" style jerseys team with medals and coaches, indoor court.
+
+file: p6455_3.jpg
+type: photo
+note: Team photo — eight teenagers in casual clothes with bronze medals, indoor court.
+
+file: p6455_4.jpg
+type: photo
+note: Two players posing — one in orange "РБА КИДС АКАДЕМИЯ" jersey #3 with MVP trophy ("ЦЕНТРАЛЬНЫЙ" ribbon), one in green Celtics #0 jersey, indoor court.
+
+file: p6455_5.jpg
+type: photo
+note: General group photo of all awarded teams and coaches with medals and trophies, indoor court.
+
+file: p6487_0.jpg
+type: match_card
+date: 14.06.2026 | time: 10:20 | venue: Панфилова 4 | home: Университет 2012 | away: Кагальник 2012 | score: 54:18 | kind: result
+
+file: p6487_1.jpg
+type: match_card
+date: 14.06.2026 | time: 10:20 | venue: Панфилова 4 | home: Университет 2012 | away: Кагальник 2012 | score: 54:18 | kind: result
+
+file: p6487_2.jpg
+type: match_card
+date: 14.06.2026 | time: 11:40 | venue: Панфилова 4 | home: Русич 2012 | away: АМТ 2012 | score: 50:67 | kind: result
+
+file: p6487_3.jpg
+type: match_card
+date: 14.06.2026 | time: 12:50 | venue: Панфилова 4 | home: Кагальник 2012 | away: Русич 2012 | score: 48:50 | kind: result
+note: Матч за бронзу (bronze medal match)
+
+file: p6487_4.jpg
+type: match_card
+date: 14.06.2026 | time: 14:00 | venue: Панфилова 4 | home: АМТ 2012 | away: Университет 2012 | score: 53:31 | kind: result
+note: Финал (final)
+
+file: p6508_0.jpg
+type: photo
+note: Team photo — beige/purple jerseys team with gold medals and trophy (champions), indoor court with climbing wall.
+
+file: p6508_1.jpg
+type: photo
+note: Team photo — same beige/purple "БАСКЕТ..." style jerseys team with gold medals and two trophies (champions), small child standing alongside.
+
+file: p6508_2.jpg
+type: photo
+note: Team photo — red "ГУ УНИВЕРСИТЕТ" jerseys team with silver/bronze medals and two coaches, indoor court.
+
+file: p6508_3.jpg
+type: photo
+note: Team photo — orange "РБА КИДС АКАДЕМИЯ" youth team with medals and coach, indoor court.
+
+file: p6508_4.jpg
+type: photo
+note: General group photo of all RBA Kids 2012 tournament teams with medals and trophy, indoor court.
+
+file: p6508_5.jpg
+type: photo
+note: Player in beige jersey #83 with MVP-style trophy ("ЦЕНТРАЛЬНЫЙ" patch on jersey) posing with coach in "CHAMPS" t-shirt holding medals.
+
+file: p6508_6.jpg
+type: photo
+note: Group photo — best players of tournament holding individual awards/medals with two coaches, indoor court.

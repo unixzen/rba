@@ -1,0 +1,48 @@
+file: p6201_0.jpg
+type: other
+note: Пасхальная открытка: «С Праздником! Светлой Пасхи!» — куличи с голубой глазурью, корзина с крашеными яйцами («ХВ»).
+
+file: p6201_1.jpg
+type: other
+note: Пасхальная открытка (дубликат p6201_0): «С Праздником! Светлой Пасхи!» — куличи, корзина с яйцами «ХВ».
+
+file: p6221_0.jpg
+type: match_card
+date: 19.04.2026 | time: 09:00 | venue: Панфилова 4 | home: Университет 2012 | away: Кагальник 2012 | score: 51:27 | kind: result
+
+file: p6221_1.jpg
+type: match_card
+date: 19.04.2026 | time: 09:00 | venue: Панфилова 4 | home: Университет 2012 | away: Кагальник 2012 | score: 51:27 | kind: result
+
+file: p6221_2.jpg
+type: match_card
+date: 19.04.2026 | time: 10:10 | venue: Панфилова 4 | home: ДЮСШ №7 2014 | away: Легион 2014 | score: 56:6 | kind: result
+
+file: p6221_3.jpg
+type: match_card
+date: 19.04.2026 | time: 11:20 | venue: Панфилова 4 | home: Ростовчанки 2012 | away: Русич 2012 | score: 61:55 | kind: result
+note: на карточке указано «После ОТ» (после овертайма)
+
+file: p6221_4.jpg
+type: match_card
+date: 19.04.2026 | time: 12:30 | venue: Панфилова 4 | home: ДЮСШ №7 2010 | away: Импульс 2010 | score: 66:20 | kind: result
+
+file: p6253_0.jpg
+type: match_card
+date: 26.04.2026 | time: 12:00 | venue: Панфилова 4 | home: Русич 2010 | away: ДЮСШ №7 | score: — | kind: announcement
+
+file: p6253_1.jpg
+type: match_card
+date: 26.04.2026 | time: 12:00 | venue: Панфилова 4 | home: Русич 2010 | away: ДЮСШ №7 | score: — | kind: announcement
+
+file: p6273_0.jpg
+type: match_card
+date: 03.05.2026 | time: 09:30 | venue: Панфилова 4 | home: Константиновск | away: СШОР № 5 | score: — | kind: announcement
+
+file: p6273_1.jpg
+type: match_card
+date: 03.05.2026 | time: 09:30 | venue: Панфилова 4 | home: Константиновск | away: СШОР № 5 | score: — | kind: announcement
+
+file: p6273_2.jpg
+type: match_card
+date: 03.05.2026 | time: 11:00 | venue: Панфилова 4 | home: Константиновск | away: Легион 2014 | score: — | kind: announcement

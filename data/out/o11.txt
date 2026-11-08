@@ -1,0 +1,107 @@
+file: p5176_2.jpg
+type: match_card
+date: 18.12.2024 | time: 12:50 | venue: Панфилова 4 | home: Кагальник 2009 | away: Сальск 2009 | score: 23:111 | kind: result
+
+file: p5191_0.jpg
+type: match_card
+date: 25.01.2025 | time: 11:00 | venue: Панфилова 4 | home: Легион Север | away: Волгодонск 2009 | score: 37:53 | kind: result
+
+file: p5191_1.jpg
+type: match_card
+date: 25.01.2025 | time: 11:00 | venue: Панфилова 4 | home: Легион Север | away: Волгодонск 2009 | score: 37:53 | kind: result
+
+file: p5191_2.jpg
+type: match_card
+date: 25.01.2025 | time: 12:30 | venue: Панфилова 4 | home: Кагальник 2009 | away: Волгодонск 2009 | score: 14:113 | kind: result
+
+file: p5219_0.jpg
+type: match_card
+date: 08.02.2025 | time: 11:30 | venue: Панфилова 4 | home: Сан Антонио Сперс | away: Легион Юг | score: 73:53 | kind: result
+
+file: p5219_1.jpg
+type: match_card
+date: 08.02.2025 | time: 11:30 | venue: Панфилова 4 | home: Сан Антонио Сперс | away: Легион Юг | score: 73:53 | kind: result
+
+file: p5219_2.jpg
+type: match_card
+date: 08.02.2025 | time: 15:00 | venue: Дачная 8А | home: АМТ | away: ЮФУ - 2 | score: 56:38 | kind: result
+
+file: p5219_3.jpg
+type: match_card
+date: 08.02.2025 | time: 16:30 | venue: Дачная 8А | home: Сан Антонио Сперс | away: ЮФУ - 1 | score: 97:59 | kind: result
+
+file: p5246_1.jpg
+type: table
+Player stat card (photo of player in dark jersey "ФОРВАРД, спортивная школа №7", #10), game score shown with NBA club logos: BROOKLYN NETS 95:43 LOS ANGELES LAKERS.
+
+| Поле   | Значение        |
+|--------|-----------------|
+| Игрок  | СУЛТАНОВ ДМИТРИЙ |
+| Счёт   | 95:43 (BROOKLYN NETS : LOS ANGELES LAKERS) |
+| PTS    | 18              |
+| REB    | 2               |
+| BLK    | 1               |
+
+file: p5246_2.jpg
+type: table
+Player stat card (photo of player in black kit), game score shown with NBA club logos: SEATTLE SUPERSONICS 60:46 SACRAMENTO KINGS.
+
+| Поле   | Значение        |
+|--------|-----------------|
+| Игрок  | ЕГОРОВ ЯРОСЛАВ  |
+| Счёт   | 60:46 (SEATTLE SUPERSONICS : SACRAMENTO KINGS) |
+| PTS    | 5               |
+| REB    | 2               |
+| STL    | 2               |
+
+file: p5259_0.jpg
+type: table
+Cross-table (результаты матчей), RBA KIDS & LBD, 2009 г.р. Teams: русич, легион, кагальник, волгодонск. Cells show score written exactly as "row team;column team"; green = win of row team, red = loss. Note: "русич" = Сальск 2009 (same logo/results as match card p5176); "легион" = Легион Север.
+
+| ↓ хозяин \ гость → | русич | легион | кагальник | волгодонск |
+|---|---|---|---|---|
+| русич | (логотип) | — | 111;23 (green) | 55;101 (red); 63;47 (green) |
+| легион | — | (логотип) | 79;10 (green); 73;20 (green) | 42;41 (green); 37;53 (red); 46;55 (red) |
+| кагальник | 23;111 (red) | 10;79 (red); 20;73 (red) | (логотип) | 14;86 (red); 15;121 (red); 14;113 (red) |
+| волгодонск | 101;55 (green); 47;63 (red) | 41;42 (red); 53;37 (green); 55;46 (green) | 86;14 (green); 121;15 (green); 113;14 (green) | (логотип) |
+
+file: p5259_1.jpg
+type: table
+Low-resolution duplicate of the p5259_0 cross-table (результаты матчей), RBA KIDS & LBD, 2009 г.р. Same content:
+
+| ↓ хозяин \ гость → | русич | легион | кагальник | волгодонск |
+|---|---|---|---|---|
+| русич | (логотип) | — | 111;23 (green) | 55;101 (red); 63;47 (green) |
+| легион | — | (логотип) | 79;10 (green); 73;20 (green) | 42;41 (green); 37;53 (red); 46;55 (red) |
+| кагальник | 23;111 (red) | 10;79 (red); 20;73 (red) | (логотип) | 14;86 (red); 15;121 (red); 14;113 (red) |
+| волгодонск | 101;55 (green); 47;63 (red) | 41;42 (red); 53;37 (green); 55;46 (green) | 86;14 (green); 121;15 (green); 113;14 (green) | (логотип) |
+
+file: p5260_0.jpg
+type: table
+Cross-table (результаты матчей), RBA KIDS & LBD, 2010-2011 г.р. Teams: SAS, РОСТОВЧАНКИ, ДИВЫ, ЮФУ 1, ЛЕГИОН, ЮФУ 2, АМТ, ДЮСШ 7. Cells show score written exactly as "row team;column team"; green = win of row team, red = loss. Note: SAS = Сан Антонио Сперс; ЛЕГИОН = Легион Юг (per 73;53 result); АМТ = Академия баскетбола Ткаченко (logo "АКАДЕМИЯ БАСКЕТБОЛА ТКАЧЕНКО").
+
+| ↓ хозяин \ гость → | SAS | РОСТОВЧАНКИ | ДИВЫ | ЮФУ 1 | ЛЕГИОН | ЮФУ 2 | АМТ | ДЮСШ 7 |
+|---|---|---|---|---|---|---|---|---|
+| SAS | (логотип) | — | — | 97;59 (green) | 73;53 (green) | 98;40 (green) | — | 88;48 (green); 88;67 (green) |
+| РОСТОВЧАНКИ | — | (логотип) | 52;45 (green) | 36;76 (red) | 29;84 (red) | — | — | — |
+| ДИВЫ | — | 45;52 (red) | (логотип) | — | 27;72 (red) | — | 61;49 (green); 53;47 (green) | — |
+| ЮФУ 1 | 59;97 (red) | 76;36 (green) | — | (логотип) | — | 56;47 (green) | 60;41 (green) | — |
+| ЛЕГИОН | 53;73 (red) | 84;29 (green) | 72;27 (green) | — | (логотип) | — | 77;14 (green); 60;16 (green) | 51;53 (red) |
+| ЮФУ 2 | 40;98 (red) | — | — | 47;56 (red) | — | (логотип) | 66;17 (green); 38;56 (red) | — |
+| АМТ | — | — | 49;61 (red); 47;53 (red) | 41;60 (red) | 14;77 (red); 16;60 (red) | 17;66 (red); 56;38 (green) | (логотип) | 57;30 (green); 35;28 (green) |
+| ДЮСШ 7 | 48;88 (red); 67;88 (red) | — | — | — | 53;51 (green) | — | 30;57 (red); 28;35 (red) | (логотип) |
+
+file: p5260_1.jpg
+type: table
+Low-resolution duplicate of the p5260_0 cross-table (результаты матчей), RBA KIDS & LBD, 2010-2011 г.р. Same content:
+
+| ↓ хозяин \ гость → | SAS | РОСТОВЧАНКИ | ДИВЫ | ЮФУ 1 | ЛЕГИОН | ЮФУ 2 | АМТ | ДЮСШ 7 |
+|---|---|---|---|---|---|---|---|---|
+| SAS | (логотип) | — | — | 97;59 (green) | 73;53 (green) | 98;40 (green) | — | 88;48 (green); 88;67 (green) |
+| РОСТОВЧАНКИ | — | (логотип) | 52;45 (green) | 36;76 (red) | 29;84 (red) | — | — | — |
+| ДИВЫ | — | 45;52 (red) | (логотип) | — | 27;72 (red) | — | 61;49 (green); 53;47 (green) | — |
+| ЮФУ 1 | 59;97 (red) | 76;36 (green) | — | (логотип) | — | 56;47 (green) | 60;41 (green) | — |
+| ЛЕГИОН | 53;73 (red) | 84;29 (green) | 72;27 (green) | — | (логотип) | — | 77;14 (green); 60;16 (green) | 51;53 (red) |
+| ЮФУ 2 | 40;98 (red) | — | — | 47;56 (red) | — | (логотип) | 66;17 (green); 38;56 (red) | — |
+| АМТ | — | — | 49;61 (red); 47;53 (red) | 41;60 (red) | 14;77 (red); 16;60 (red) | 17;66 (red); 56;38 (green) | (логотип) | 57;30 (green); 35;28 (green) |
+| ДЮСШ 7 | 48;88 (red); 67;88 (red) | — | — | — | 53;51 (green) | — | 30;57 (red); 28;35 (red) | (логотип) |

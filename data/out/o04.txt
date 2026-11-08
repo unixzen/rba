@@ -1,0 +1,60 @@
+file: p5041_1.jpg
+type: match_card
+date: 10.11.2024 | time: 13:30 | venue: Панфилова 4 | home: Ростовчанки | away: Легион Юг | score: - | kind: announcement
+
+file: p5041_2.jpg
+type: match_card
+date: 10.11.2024 | time: 15:00 | venue: Панфилова 4 | home: Афалины | away: Дивы Бузена Суэрта | score: - | kind: announcement
+
+file: p5042_0.jpg
+type: match_card
+date: 10.11.2024 | time: 13:30 | venue: Панфилова 4 | home: Ростовчанки | away: Легион Юг | score: 29:84 | kind: result
+
+file: p5042_1.jpg
+type: match_card
+date: 10.11.2024 | time: 13:30 | venue: Панфилова 4 | home: Ростовчанки | away: Легион Юг | score: 29:84 | kind: result
+
+file: p5042_2.jpg
+type: match_card
+date: 10.11.2024 | time: 15:00 | venue: Панфилова 4 | home: Афалины | away: Дивы Бузена Суэрта | score: 49:61 | kind: result
+
+file: p5052_0.jpg
+type: match_card
+date: 10.11.2024 | time: 13:30 | venue: Панфилова 4 | home: Ростовчанки | away: Легион Юг | score: - | kind: announcement
+note: video thumbnail (800x450) of the announcement match card.
+
+file: p5052_1.jpg
+type: match_card
+date: 10.11.2024 | time: 13:30 | venue: Панфилова 4 | home: Ростовчанки | away: Легион Юг | score: - | kind: announcement
+note: video thumbnail (800x450) of the announcement match card.
+
+file: p5052_10.jpg
+type: match_card
+date: 10.11.2024 | time: 13:30 | venue: Панфилова 4 | home: Ростовчанки | away: Легион Юг | score: - | kind: announcement
+
+file: p5052_11.jpg
+type: match_card
+date: 10.11.2024 | time: 13:30 | venue: Панфилова 4 | home: Ростовчанки | away: Легион Юг | score: - | kind: announcement
+
+file: p5052_14.jpg
+type: match_card
+date: 10.11.2024 | time: 15:00 | venue: Панфилова 4 | home: Афалины | away: Дивы Бузена Суэрта | score: - | kind: announcement
+note: small thumbnail version of the announcement card.
+
+file: p5052_15.jpg
+type: match_card
+date: 10.11.2024 | time: 15:00 | venue: Панфилова 4 | home: Афалины | away: Дивы Бузена Суэрта | score: - | kind: announcement
+note: small thumbnail version of the announcement card.
+
+file: p5052_16.jpg
+type: match_card
+date: 10.11.2024 | time: 15:00 | venue: Панфилова 4 | home: Афалины | away: Дивы Бузена Суэрта | score: - | kind: announcement
+note: small thumbnail version of the announcement card.
+
+file: p5052_17.jpg
+type: match_card
+date: 10.11.2024 | time: 15:00 | venue: Панфилова 4 | home: Афалины | away: Дивы Бузена Суэрта | score: - | kind: announcement
+
+file: p5052_18.jpg
+type: match_card
+date: 10.11.2024 | time: 15:00 | venue: Панфилова 4 | home: Афалины | away: Дивы Бузена Суэрта | score: - | kind: announcement

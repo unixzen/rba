@@ -1,0 +1,27 @@
+You transcribe VK post images of the RBA Kids basketball league (Rostov Basketball Association, Rostov-on-Don).
+
+Read the batch file BATCHFILE. It is a JSON list; each entry has: post (VK post id), date (unix timestamp), text (VK post text with all Cyrillic stripped — UNRELIABLE, use only for hints), file (image filename), url.
+
+For EACH entry, open and look at the image IMGDIR/{file} (use your read tool on the image path) and classify + transcribe it.
+
+Classification (one of):
+- match_card: RBA graphic match card. Layout: two team names at top (left/right), two club logos, in the middle either a score "X : Y" (result card) or a tour number / "vs" mark (announcement card), bottom-left date and time, bottom-right venue.
+- table: standings / leaders / awards / roster graphic, or photo of a table/protocol.
+- photo: game action photo or team photo with no scores/tables.
+- other: ads, covers, logos, collages.
+
+Transcription rules:
+- match_card: home team = LEFT name (full name exactly as written, including year, e.g. "ЕРМАК 2012"), away team = RIGHT name, score exactly "X:Y" if shown (left team first). kind: result (has score) or announcement (no score). Also date, time, venue.
+- table: transcribe ALL visible text: every row and column (place, team, games/wins/losses/points, stats), awards (MVP, best scorer etc.). Use a markdown table.
+- photo/other: one short line only.
+- Transcribe Cyrillic names exactly as written in the image. Do not translate.
+
+When all images are processed, WRITE the complete transcription to OUTFILE with the write tool (create the file). Format — one block per image, in batch order:
+
+file: {file}
+type: {match_card|table|photo|other}
+{match_card:} date: DD.MM.YYYY | time: HH:MM | venue: ... | home: ... | away: ... | score: X:Y | kind: result/announcement
+{table:} markdown table or structured list of everything visible
+{photo/other:} note: ...
+
+Do not skip any image. Do not summarize across images. The written file is the deliverable. After writing it, print exactly: DONE BATCH

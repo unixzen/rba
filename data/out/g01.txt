@@ -1,0 +1,31 @@
+file: p6044_3.jpg
+type: photo
+note: Referee in RBA uniform tossing the ball up for the opening jump ball in an indoor arena (FONBET/Суперлига banners, purple seats).
+
+file: p6044_4.jpg
+type: photo
+note: Game action — kids in blue vs orange jerseys contest a play near the basket under the hoop (ГАRED backboard, Правительство Ростовской области banner).
+
+file: p6044_5.jpg
+type: photo
+note: Referee talking to both teams (blue and orange jerseys) gathered at the center circle before the game, ВФБ banner above the court.
+
+file: p6113_0.jpg
+type: match_card
+date: 15.03.2026 | time: 12:00 | venue: Панфилова 4 | home: Русич 2012 | away: I.S.B. 2012 | score: 70:55 | kind: result
+
+file: p6113_1.jpg
+type: match_card
+date: 15.03.2026 | time: 12:00 | venue: Панфилова 4 | home: Русич 2012 | away: I.S.B. 2012 | score: 70:55 | kind: result
+
+file: p6113_2.jpg
+type: photo
+note: Game action in a green-floor gym — player in orange jersey dribbles against teal-jerseyed defenders.
+
+file: p6113_3.jpg
+type: photo
+note: Game action — player in orange jersey (No. 5) jumps for the ball against teal-jerseyed opponents (Nos. 3, 73, 22), teammates on the bench.
+
+file: p6165_0.jpg
+type: match_card
+date: 29.03.2026 | time: 12:10 | venue: Панфилова 4 | home: Импульс 2012 | away: АМТ 2012 | score: 78:99 | kind: result

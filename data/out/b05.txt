@@ -1,0 +1,136 @@
+file: p5927_0.jpg
+type: table
+RBA KIDS & LBD results matrix (cross-table of played games). Column headers as written: РУСИЧ | ROSTOVPPUGS | ИМПУЛЬС | ЛЕГИОН | I.S.Basketball. Row labels as written: РУСИЧ | ROSTOVPUGS | ИМПУЛЬС | ЛЕГИОН | I.S.Basketball (note: header spells "ROSTOVPPUGS", row label "ROSTOVPUGS"). Each game is listed twice (mirrored, row team's score first); green = win of row team, red = loss. Diagonal cells contain club logos (RBA logo in top-left corner).
+
+| team (row) \ vs | РУСИЧ | ROSTOVPPUGS | ИМПУЛЬС | ЛЕГИОН | I.S.Basketball |
+|---|---|---|---|---|---|
+| РУСИЧ | (logo) | 99:65 | 122:30 | — | 79:31 |
+| ROSTOVPUGS | 65:99 | (logo) | — | 31:56 | — |
+| ИМПУЛЬС | 30:122 | — | (logo) | 24:65 | 21:45 |
+| ЛЕГИОН | — | 56:31 | 65:24 | (logo) | 97:17 / 65:16 |
+| I.S.Basketball | 31:79 | — | 45:21 | 17:97 / 16:65 | (logo) |
+
+Games shown (each appears mirrored in the matrix):
+- РУСИЧ 99:65 ROSTOVPUGS
+- РУСИЧ 122:30 ИМПУЛЬС
+- РУСИЧ 79:31 I.S.Basketball
+- ROSTOVPUGS 31:56 ЛЕГИОН
+- ИМПУЛЬС 24:65 ЛЕГИОН
+- ИМПУЛЬС 21:45 I.S.Basketball
+- ЛЕГИОН 97:17 I.S.Basketball
+- ЛЕГИОН 65:16 I.S.Basketball
+
+file: p5928_0.jpg
+type: table
+RBA KIDS & LBD results matrix, 12 teams (cross-table of played games). Column headers as written: РОСТОВЧАНКИ | кагальник | успех | русич | УНИВЕРСИТЕТ | ИМПУЛЬС | WILD CATS | BASKET BELLES | ЛЕГИОН | I.S.B | АМТ | ФЕНИКС. Row labels as written (all caps): РОСТОВЧАНКИ | КАГАЛНИК | УСПЕХ | РУСИЧ | УНИВЕРСИТЕТ | ИМПУЛЬС | WILD CATS | BASKET BELLES | ЛЕГИОН | I.S.B | АМТ | ФЕНИКС. Each game is listed twice (mirrored, row team's score first); green = win of row team, red = loss. Diagonal cells contain club logos (RBA logo top-left).
+
+| team (row) \ vs | РОСТОВЧАНКИ | КАГАЛНИК | УСПЕХ | РУСИЧ | УНИВЕРСИТЕТ | ИМПУЛЬС | WILD CATS | BASKET BELLES | ЛЕГИОН | I.S.B | АМТ | ФЕНИКС |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| РОСТОВЧАНКИ | (logo) | — | — | — | — | — | 11:61 | — | — | — | 60:83 | — |
+| КАГАЛНИК | — | (logo) | 47:33 | 58:53 | — | — | — | — | 56:68 | 64:42 | 21:98 / 47:82 | — |
+| УСПЕХ | — | 33:47 | (logo) | — | 27:33 | 36:32 | — | — | — | 51:27 | — | — |
+| РУСИЧ | — | 53:58 | — | (logo) | — | — | — | — | — | 36:47 | — | — |
+| УНИВЕРСИТЕТ | — | — | 33:27 | — | (logo) | 74:19 / 45:18 | — | — | — | — | 43:48 | — |
+| ИМПУЛЬС | — | — | 32:36 | — | 19:74 / 18:45 | (logo) | — | — | — | — | — | — |
+| WILD CATS | 61:11 | — | — | — | — | — | (logo) | — | — | — | — | — |
+| BASKET BELLES | — | — | — | — | — | — | — | (logo) | — | — | — | — |
+| ЛЕГИОН | — | 68:56 | — | — | — | — | — | — | (logo) | — | — | — |
+| I.S.B | — | 42:64 | 27:51 | 47:36 | — | — | — | — | — | (logo) | — | — |
+| АМТ | 83:60 | 98:21 / 82:47 | — | — | 48:43 | — | — | — | — | — | (logo) | 86:24 |
+| ФЕНИКС | — | — | — | — | — | — | — | — | — | — | 24:86 | (logo) |
+
+Games shown (each appears mirrored in the matrix):
+- КАГАЛНИК 47:33 УСПЕХ
+- КАГАЛНИК 58:53 РУСИЧ
+- КАГАЛНИК 56:68 ЛЕГИОН
+- КАГАЛНИК 64:42 I.S.B
+- КАГАЛНИК 21:98 АМТ
+- КАГАЛНИК 47:82 АМТ
+- УСПЕХ 27:33 УНИВЕРСИТЕТ
+- УСПЕХ 36:32 ИМПУЛЬС
+- УСПЕХ 51:27 I.S.B
+- РОСТОВЧАНКИ 11:61 WILD CATS
+- РОСТОВЧАНКИ 60:83 АМТ
+- УНИВЕРСИТЕТ 74:19 ИМПУЛЬС
+- УНИВЕРСИТЕТ 45:18 ИМПУЛЬС
+- УНИВЕРСИТЕТ 43:48 АМТ
+- РУСИЧ 36:47 I.S.B
+- АМТ 86:24 ФЕНИКС
+
+file: p5928_2.jpg
+type: table
+Standings graphic ("Турнирная таблица") for the same 12-team league. NOTE: source image is only 160x83 px — most text is NOT reliably legible; transcribed structure below, illegible items marked.
+- Top strip: club logos around a central orange banner (RBA logo at left).
+- Orange banner, 3 lines (blurred): line 1 ≈ "Турнирная таблица", line 2 ≈ "…чемпионата …LBD", line 3 (illegible, likely season "…2025-2026") — exact wording not legible at this resolution.
+- Table columns (9): "Место" | "Команда" | "Игр" | "Победы" | "Поражения" | "% побед" (green-highlighted column) | "Забито" | "Пропущено" | one more numeric column (illegible, likely "Разница") — header labels are blurred; these readings are best-effort.
+- 12 rows, places 1 to 12 (place column legible as sequence 1–12). Rows have colored backgrounds (1 white, 2 grey, 3 green, 4 red, 5 light green, 6 orange, 7 light orange, 8 yellow, 9 tan, 10 orange, 11 amber, 12 purple).
+- Team names (12 rows): ILLEGIBLE at source resolution (row 1 has a short name of ~3 characters, e.g. "АМТ"; other rows not readable; several names appear to end in "-2013"/"-2014" year suffixes).
+- All numeric values in all rows: ILLEGIBLE at source resolution (single-digit-looking "Игр/Победы/Поражения" columns, percent-looking green column, two-to-three-digit "Забито/Пропущено" columns).
+
+file: p5929_0.jpg
+type: table
+RBA results matrix, 6 teams (cross-table of played games; RBA logo top-left). Column headers as written: Белые Афалины | ЛЕГИОН | Волгодонск | ДЮСШ7 | СШОР 5 | УРОЖАЙ. Row labels as written: Белые Афалины | ЛЕГИОН | Волгодонск | ДЮСШ 7 | СШОР 5 | БК УРОЖАЙ. Each game listed twice (mirrored, row team's score first); green = win of row team, red = loss. Diagonal cells contain club logos.
+
+| team (row) \ vs | Белые Афалины | ЛЕГИОН | Волгодонск | ДЮСШ7 | СШОР 5 | УРОЖАЙ |
+|---|---|---|---|---|---|---|
+| Белые Афалины | (logo) | 27:28 | 22:48 | — | — | 10:74 |
+| ЛЕГИОН | 28:27 | (logo) | 52:37 | 11:54 | — | — |
+| Волгодонск | 48:22 | 37:52 | (logo) | 19:58 | 21:37 | — |
+| ДЮСШ 7 | — | 54:11 | 58:19 | (logo) | 46:16 | 50:15 |
+| СШОР 5 | — | — | 37:21 | 16:46 | (logo) | — |
+| БК УРОЖАЙ | 74:10 | — | — | 15:50 | — | (logo) |
+
+Games shown (each appears mirrored in the matrix):
+- Белые Афалины 27:28 ЛЕГИОН
+- Белые Афалины 22:48 Волгодонск
+- Белые Афалины 10:74 БК УРОЖАЙ
+- ЛЕГИОН 52:37 Волгодонск
+- ЛЕГИОН 11:54 ДЮСШ 7
+- Волгодонск 19:58 ДЮСШ 7
+- Волгодонск 21:37 СШОР 5
+- ДЮСШ 7 46:16 СШОР 5 (note: in the graphic these two mirrored cells are colored opposite to the usual convention — "46:16" is red and "16:46" green — but the numbers are exact mirrors like all other pairs)
+- ДЮСШ 7 50:15 БК УРОЖАЙ
+
+file: p5930_0.jpg
+type: other
+note: New Year greeting graphic — "С Новым 2026 годом!" (gold foil balloons "2026", fir branches, blue ornaments).
+
+file: p5930_1.jpg
+type: other
+note: Same New Year greeting graphic "С Новым 2026 годом!" at larger size (identical design to p5930_0.jpg).
+
+file: p5942_0.jpg
+type: photo
+note: Game action — player #4 in black shooting the ball, players #2 (black) and #13 (burgundy "RIPCITY") watching, indoor gym with brick wall, RBA logo watermark bottom-left.
+
+file: p5942_1.jpg
+type: photo
+note: Same game action photo as p5942_0.jpg in larger size (player #4 shooting, #2 and #13 watching).
+
+file: p5942_2.jpg
+type: photo
+note: Game action — burgundy player #16 ("BURNOU" on jersey) holding the ball overhead, black #36 defending, other players nearby, indoor gym with brick wall, RBA logo watermark bottom-left.
+
+file: p5942_3.jpg
+type: photo
+note: Game action — black #3 dribbling against burgundy #11 ("RIPCITY"), teammates and opponents around the court, indoor gym, RBA logo watermark bottom-left.
+
+file: p5945_0.jpg
+type: match_card
+date: 18.01.2026 | time: 09:30 | venue: Панфилова 4 | home: АМТ 2012 | away: Ростовчанки | score: 54:42 | kind: result
+
+file: p5945_1.jpg
+type: match_card
+date: 18.01.2026 | time: 09:30 | venue: Панфилова 4 | home: АМТ 2012 | away: Ростовчанки | score: 54:42 | kind: result
+
+file: p5945_2.jpg
+type: match_card
+date: 18.01.2026 | time: 10:40 | venue: Панфилова 4 | home: Wild Cats | away: Кагальник 2012 | score: 46:47 | kind: result
+
+file: p5945_3.jpg
+type: match_card
+date: 18.01.2026 | time: 11:50 | venue: Панфилова 4 | home: Basket Belles | away: Университет | score: 17:42 | kind: result
+
+file: p5945_4.jpg
+type: match_card
+date: 18.01.2026 | time: 13:00 | venue: Панфилова 4 | home: Белые Афалины | away: ДЮСШ№7 2014 | score: 10:59 | kind: result

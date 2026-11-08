@@ -1,0 +1,55 @@
+file: p5057_2.jpg
+type: match_card
+date: 16.11.2024 | time: 16:20 | venue: Дачная 8а | home: ЮФУ - 1 | away: ЮФУ - 2 | score: 56:47 | kind: result
+
+file: p5058_0.jpg
+type: match_card
+date: 16.11.2024 | time: 16:20 | venue: Дачная 8а | home: ЮФУ - 1 | away: ЮФУ - 2 | score: | kind: announcement
+
+file: p5058_1.jpg
+type: match_card
+date: 16.11.2024 | time: 16:20 | venue: Дачная 8а | home: ЮФУ - 1 | away: ЮФУ - 2 | score: | kind: announcement
+
+file: p5058_10.jpg
+type: match_card
+date: 16.11.2024 | time: 16:20 | venue: Дачная 8а | home: ЮФУ - 1 | away: ЮФУ - 2 | score: | kind: announcement
+
+file: p5058_11.jpg
+type: match_card
+date: 16.11.2024 | time: 16:20 | venue: Дачная 8а | home: ЮФУ - 1 | away: ЮФУ - 2 | score: | kind: announcement
+
+file: p5058_4.jpg
+type: match_card
+date: 16.11.2024 | time: 16:20 | venue: Дачная 8а | home: ЮФУ - 1 | away: ЮФУ - 2 | score: | kind: announcement
+
+file: p5058_5.jpg
+type: match_card
+date: 16.11.2024 | time: 16:20 | venue: Дачная 8а | home: ЮФУ - 1 | away: ЮФУ - 2 | score: | kind: announcement
+
+file: p5058_6.jpg
+type: match_card
+date: 16.11.2024 | time: 16:20 | venue: Дачная 8а | home: ЮФУ - 1 | away: ЮФУ - 2 | score: | kind: announcement
+
+file: p5058_7.jpg
+type: match_card
+date: 16.11.2024 | time: 16:20 | venue: Дачная 8а | home: ЮФУ - 1 | away: ЮФУ - 2 | score: | kind: announcement
+
+file: p5058_8.jpg
+type: match_card
+date: 16.11.2024 | time: 16:20 | venue: Дачная 8а | home: ЮФУ - 1 | away: ЮФУ - 2 | score: | kind: announcement
+
+file: p5058_9.jpg
+type: match_card
+date: 16.11.2024 | time: 16:20 | venue: Дачная 8а | home: ЮФУ - 1 | away: ЮФУ - 2 | score: | kind: announcement
+
+file: p5067_0.jpg
+type: match_card
+date: 23.11.2024 | time: 11:00 | venue: Панфилова 4 | home: Волгодонск 2009 | away: Кагальник | score: | kind: announcement
+
+file: p5067_1.jpg
+type: match_card
+date: 23.11.2024 | time: 11:00 | venue: Панфилова 4 | home: Волгодонск 2009 | away: Кагальник | score: | kind: announcement
+
+file: p5067_2.jpg
+type: match_card
+date: 23.11.2024 | time: 12:20 | venue: Панфилова 4 | home: Волгодонск 2009 | away: Легион Север | score: | kind: announcement

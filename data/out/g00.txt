@@ -1,0 +1,31 @@
+file: p6040_0.jpg
+type: match_card
+date: 14.02.2026 | time: 09:30 | venue: Панфилова 4 | home: Легион 2010 | away: Русич 2010 | score: 53:72 | kind: result
+
+file: p6040_1.jpg
+type: match_card
+date: 14.02.2026 | time: 09:30 | venue: Панфилова 4 | home: Легион 2010 | away: Русич 2010 | score: 53:72 | kind: result
+
+file: p6040_2.jpg
+type: photo
+note: Game action photo — Легион (maroon) vs Русич (orange) players under the basket, player #2 Чигатов shooting.
+
+file: p6040_3.jpg
+type: photo
+note: Game action photo — jump shot/rebound under the basket, Легион and Русич players (jerseys #33 Багдада, #25 Пшеничный, #29 Бурлак, #3, #2, #13).
+
+file: p6040_4.jpg
+type: photo
+note: Game action photo — players walking on court between plays, Русич jerseys #16 and #1, Легион players in maroon.
+
+file: p6044_0.jpg
+type: match_card
+date: 15.02.2026 | time: 09:00 | venue: Комарова 1/1 | home: Белые Афалины | away: ГБУ РО СШОР | score: 16:42 | kind: result
+
+file: p6044_1.jpg
+type: match_card
+date: 15.02.2026 | time: 09:00 | venue: Комарова 1/1 | home: Белые Афалины | away: ГБУ РО СШОР | score: 16:42 | kind: result
+
+file: p6044_2.jpg
+type: photo
+note: Game action photo — player #79 in blue dribbling up court, teammate and orange-jerseyed opponent #21 in pursuit.

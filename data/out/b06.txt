@@ -1,0 +1,64 @@
+file: p5971_0.jpg
+type: match_card
+date: 25.01.2026 | time: 10:15 | venue: Панфилова 4 | home: ГБУ РО СШОР №5 | away: Легион 2014 | score: 29:28 | kind: result
+
+file: p5971_1.jpg
+type: match_card
+date: 25.01.2026 | time: 10:15 | venue: Панфилова 4 | home: ГБУ РО СШОР №5 | away: Легион 2014 | score: 29:28 | kind: result
+
+file: p5971_2.jpg
+type: match_card
+date: 25.01.2026 | time: 11:45 | venue: Панфилова 4 | home: Импульс 2012 | away: АМТ 2012 | score: 46:71 | kind: result
+
+file: p5971_3.jpg
+type: match_card
+date: 25.01.2026 | time: 13:15 | venue: Панфилова 4 | home: Университет 2012 | away: АМТ 2012 | score: 39:45 | kind: result
+
+file: p5992_0.jpg
+type: match_card
+date: 01.02.2026 | time: 09:00 | venue: Панфилова 4 | home: АМТ 2012 | away: I.S.B. 2012 | score: 76:28 | kind: result
+
+file: p5992_1.jpg
+type: match_card
+date: 01.02.2026 | time: 09:00 | venue: Панфилова 4 | home: АМТ 2012 | away: I.S.B. 2012 | score: 76:28 | kind: result
+
+file: p5992_2.jpg
+type: match_card
+date: 01.02.2026 | time: 10:30 | venue: Панфилова 4 | home: РУСИЧ 2012 | away: Basket Belles | score: 44:37 | kind: result
+
+file: p5992_3.jpg
+type: match_card
+date: 01.02.2026 | time: 12:00 | venue: Панфилова 4 | home: Wild Cats | away: Импульс 2012 | score: 44:31 | kind: result
+
+file: p6006_0.jpg
+type: other
+note: Обложка с логотипом Minnesota Timberwolves (тёмно-синий фон, волк в круге).
+
+file: p6006_2.jpg
+type: photo
+note: Командное фото юных баскетболистов (белые с бордовым формы) в спортзале, на заднем плане площадка с кольцом и лестницами.
+
+file: p6018_0.jpg
+type: match_card
+date: 08.02.2026 | time: 09:00 | venue: Панфилова 4 | home: Кагальник 2012 | away: Феникс 2012 | score: 78:24 | kind: result
+
+file: p6018_1.jpg
+type: match_card
+date: 08.02.2026 | time: 09:00 | venue: Панфилова 4 | home: Кагальник 2012 | away: Феникс 2012 | score: 78:24 | kind: result
+
+file: p6018_2.jpg
+type: match_card
+date: 08.02.2026 | time: 10:10 | venue: Панфилова 4 | home: АМТ 2012 | away: Успех 2012 | score: 58:38 | kind: result
+
+file: p6018_3.jpg
+type: match_card
+date: 08.02.2026 | time: 11:20 | venue: Панфилова 4 | home: АМТ 2012 | away: Феникс 2012 | score: 115:22 | kind: result
+
+file: p6018_4.jpg
+type: match_card
+date: 08.02.2026 | time: 12:30 | venue: Панфилова 4 | home: I.S.B. 2012 | away: Успех 2012 | score: 30:53 | kind: result
+
+file: p6018_5.jpg
+type: match_card
+date: 08.02.2026 | time: 13:40 | venue: ПАНФИЛОВА 4 | home: (название не написано; логотип: синий конь со звездой) | away: (название не написано; логотип: бык/зубр с молнией) | score: 72:95 | kind: result
+note: Нестандартный макет карточки (дизайн другого сезона/конференции): слева очки 72 у синего логотипа, справа 95 у логотипа с быком; внизу слева надпись "VIII СЕЗОН (25/26)", между счетами диагональная лента с логотипами "RBA EASTERN CONFERENCE" и "RBA WESTERN CONFERENCE".

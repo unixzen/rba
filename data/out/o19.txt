@@ -1,0 +1,55 @@
+file: p5482_2.jpg
+type: match_card
+date: 10.05.2025 | time: 12:00 | venue: Панфилова 4 | home: Кагальник 2012 | away: Шаг Вперёд | score: 53:46 | kind: result
+
+file: p5482_3.jpg
+type: match_card
+date: 10.05.2025 | time: 13:30 | venue: Панфилова 4 | home: Дивы Буэна Суэрта | away: Сан Антонио Сперс | score: 52:104 | kind: result
+
+file: p5482_4.jpg
+type: match_card
+date: 10.05.2025 | time: 15:00 | venue: Панфилова 4 | home: Шаг Вперёд | away: Сальск 2012 | score: 62:42 | kind: result
+
+file: p5498_0.jpg
+type: match_card
+date: 16.05.2025 | time: 18:00 | venue: Панфилова 4 | home: Легион Север | away: Кагальник 2009 | score: — | kind: announcement
+
+file: p5498_1.jpg
+type: match_card
+date: 16.05.2025 | time: 18:00 | venue: Панфилова 4 | home: Легион Север | away: Кагальник 2009 | score: — | kind: announcement
+
+file: p5514_0.jpg
+type: match_card
+date: 24.05.2025 | time: 11:00 | venue: Панфилова 4 | home: Шаг Вперёд | away: Кагальник 2012 | score: — | kind: announcement
+
+file: p5514_1.jpg
+type: match_card
+date: 24.05.2025 | time: 11:00 | venue: Панфилова 4 | home: Шаг Вперёд | away: Кагальник 2012 | score: — | kind: announcement
+
+file: p5518_0.jpg
+type: match_card
+date: 24.05.2025 | time: 11:00 | venue: Панфилова 4 | home: Шаг Вперёд | away: Кагальник 2012 | score: 40:68 | kind: result
+
+file: p5518_1.jpg
+type: match_card
+date: 24.05.2025 | time: 11:00 | venue: Панфилова 4 | home: Шаг Вперёд | away: Кагальник 2012 | score: 40:68 | kind: result
+
+file: p5546_0.jpg
+type: match_card
+date: 06.06.2025 | time: 18:00 | venue: Кагальник | home: Русич 2009 | away: Кагальник 2009 | score: — | kind: announcement
+
+file: p5546_1.jpg
+type: match_card
+date: 06.06.2025 | time: 18:00 | venue: Кагальник | home: Русич 2009 | away: Кагальник 2009 | score: — | kind: announcement
+
+file: p5548_0.jpg
+type: match_card
+date: 06.06.2025 | time: 18:00 | venue: Кагальник | home: Русич 2009 | away: Кагальник 2009 | score: 141:33 | kind: result
+
+file: p5548_1.jpg
+type: match_card
+date: 06.06.2025 | time: 18:00 | venue: Кагальник | home: Русич 2009 | away: Кагальник 2009 | score: 141:33 | kind: result
+
+file: p5553_0.jpg
+type: match_card
+date: 06.06.2025 | time: 18:00 | venue: Кагальник | home: Сальск 2012 | away: Успех 2012 | score: 22:77 | kind: result

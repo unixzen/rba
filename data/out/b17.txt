@@ -1,0 +1,63 @@
+file: p6861_0.jpg
+type: match_card
+date: 24.10.2026 | time: 10:20 | venue: ПАНФИЛОВА 4 | home: КАГАЛЬНИК | away: УСПЕХ | score: 38:81 | kind: result
+
+file: p6861_1.jpg
+type: match_card
+date: 24.10.2026 | time: 10:20 | venue: ПАНФИЛОВА 4 | home: КАГАЛЬНИК | away: УСПЕХ | score: 38:81 | kind: result
+
+file: p6861_2.jpg
+type: match_card
+date: 24.10.2026 | time: 11:40 | venue: ПАНФИЛОВА 4 | home: ЕРМАК 2012 | away: УСПЕХ | score: 67:41 | kind: result
+
+file: p6861_3.jpg
+type: match_card
+date: 25.10.2026 | time: 08:45 | venue: ПАНФИЛОВА 4 | home: ЮНОСТЬ | away: БЕЛЫЕ АФАЛИНЫ | score: 59:51 | kind: result
+
+file: p6861_4.jpg
+type: match_card
+date: 25.10.2026 | time: 10:00 | venue: ПАНФИЛОВА 4 | home: СПАРТА | away: КАТЮША | score: 35:21 | kind: result
+
+file: p6861_5.jpg
+type: match_card
+date: 25.10.2026 | time: 11:15 | venue: ПАНФИЛОВА 4 | home: ИМПУЛЬС 2016 | away: ДЮСШ №7 2016 | score: 12:50 | kind: result
+
+file: p6861_6.jpg
+type: match_card
+date: 25.10.2026 | time: 12:30 | venue: ПАНФИЛОВА 4 | home: РОСТОВ - ПАПА | away: ДЮСШ №7 2010 | score: 54:60 | kind: result
+
+file: p6861_7.jpg
+type: match_card
+date: 25.10.2026 | time: 13:45 | venue: ПАНФИЛОВА 4 | home: АМТ 2012 | away: УЛЬТИМАТУМ | score: 14:92 | kind: result
+
+file: p6861_8.jpg
+type: match_card
+date: 25.10.2026 | time: 15:00 | venue: ПАНФИЛОВА 4 | home: РУСИЧ 2010 | away: БАТАЙСК 2010 | score: 80:64 | kind: result
+
+file: p6911_0.jpg
+type: match_card
+date: 31.10.2026 | time: 10:00 | venue: ПАНФИЛОВА 4 | home: ЕРМАК 2012 | away: УНИВЕРСИТЕТ 2012 | score: 56:43 | kind: result
+
+file: p6911_1.jpg
+type: match_card
+date: 31.10.2026 | time: 10:00 | venue: ПАНФИЛОВА 4 | home: ЕРМАК 2012 | away: УНИВЕРСИТЕТ 2012 | score: 56:43 | kind: result
+
+file: p6911_2.jpg
+type: match_card
+date: 31.10.2026 | time: 11:15 | venue: ПАНФИЛОВА 4 | home: УЛЬТИМАТУМ | away: КАТЮША 2016 - 2 | score: 33:59 | kind: result
+
+file: p6911_3.jpg
+type: match_card
+date: 01.11.2026 | time: 09:00 | venue: ПАНФИЛОВА 4 | home: КАТЮША 2016 - 1 | away: БАГИРА 2016 | score: 37:29 | kind: result
+
+file: p6911_4.jpg
+type: match_card
+date: 01.11.2026 | time: 10:15 | venue: ПАНФИЛОВА 4 | home: КАТЮША 2014 | away: БЕЛЫЕ АФАЛИНЫ | score: 60:21 | kind: result
+
+file: p6911_5.jpg
+type: match_card
+date: 01.11.2026 | time: 11:30 | venue: ПАНФИЛОВА 4 | home: ФОРВАРД - 2 | away: БЕЛЫЕ АФАЛИНЫ | score: 72:23 | kind: result
+
+file: p6911_6.jpg
+type: match_card
+date: 01.11.2026 | time: 13:00 | venue: ПАНФИЛОВА 4 | home: ЮНОСТЬ | away: БАТАЙСК 2014 | score: 55:17 | kind: result

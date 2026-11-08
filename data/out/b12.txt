@@ -1,0 +1,55 @@
+file: p6407_0.jpg
+type: match_card
+date: 31.05.2026 | time: 08:45 | venue: Панфилова 4 | home: Университет 2012 | away: I.S.B. 2012 | score: 46:17 | kind: result
+
+file: p6407_1.jpg
+type: match_card
+date: 31.05.2026 | time: 08:45 | venue: Панфилова 4 | home: Университет 2012 | away: I.S.B. 2012 | score: 46:17 | kind: result
+
+file: p6407_2.jpg
+type: match_card
+date: 31.05.2026 | time: 10:00 | venue: Панфилова 4 | home: Константиновск | away: ГБУ РО СШОР №5 | score: 47:22 | kind: result
+
+file: p6407_3.jpg
+type: match_card
+date: 31.05.2026 | time: 11:15 | venue: Панфилова 4 | home: Константиновск | away: Легион 2014 | score: 38:30 | kind: result
+
+file: p6407_4.jpg
+type: match_card
+date: 31.05.2026 | time: 12:30 | venue: Панфилова 4 | home: ДЮСШ №7 | away: Легион 2010 | score: 27:34 | kind: result
+
+file: p6407_5.jpg
+type: match_card
+date: 31.05.2026 | time: 13:45 | venue: Панфилова 4 | home: Русич 2010 | away: Импульс 2010 | score: 97:28 | kind: result
+
+file: p6416_0.jpg
+type: photo
+note: Игрок Б/УНИВЕРСИТЕТ (№7) с тренером Banan_Basket держат подарок/сувенир после игры RBA Kids 2012.
+
+file: p6416_1.jpg
+type: photo
+note: То же фото, что p6416_0 (другое разрешение): игрок Б/УНИВЕРСИТЕТ (№7) с тренером Banan_Basket и подарком.
+
+file: p6423_0.jpg
+type: photo
+note: Командное фото РУСИЧ КМЗ (оранжевые формы) — золотые медали и кубок, чемпионы RBA Kids 2010, сезон 2025-2026.
+
+file: p6423_1.jpg
+type: photo
+note: То же фото, что p6423_0 (другое разрешение): команда РУСИЧ КМЗ с золотыми медалями и кубком.
+
+file: p6454_0.jpg
+type: photo
+note: Командное фото РУСИЧ КМЗ (оранжевые формы) — золотые медали и кубок, победители RBA Kids 5x5 2010.
+
+file: p6454_1.jpg
+type: photo
+note: То же фото, что p6454_0 (другое разрешение): команда РУСИЧ КМЗ с золотыми медалями и кубком.
+
+file: p6454_2.jpg
+type: photo
+note: Командное фото команды в бордовых формах с медалями (серебро 2010) и тренером в зелёной форме Celtics №0; названия на формах не разборчивы.
+
+file: p6454_3.jpg
+type: photo
+note: Командное фото СТОЛИЧНАЯ ШКОЛА №7 (белые формы) с медалями (бронза 2010) и тренером; один игрок держит мяч RBA.

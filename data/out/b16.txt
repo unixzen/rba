@@ -1,0 +1,63 @@
+file: p6795_0.jpg
+type: match_card
+date: 10.10.2026 | time: 10:30 | venue: ПАНФИЛОВА 4 | home: СШ №7-1 | away: УНИВЕРСИТЕТ | score: 22:57 | kind: result
+
+file: p6795_1.jpg
+type: match_card
+date: 10.10.2026 | time: 10:30 | venue: ПАНФИЛОВА 4 | home: СШ №7-1 | away: УНИВЕРСИТЕТ | score: 22:57 | kind: result
+
+file: p6795_2.jpg
+type: match_card
+date: 10.10.2026 | time: 12:00 | venue: ПАНФИЛОВА 4 | home: СШ №7-2 | away: РУСИЧ 2012 | score: 11:64 | kind: result
+
+file: p6795_3.jpg
+type: match_card
+date: 10.10.2026 | time: 13:30 | venue: ПАНФИЛОВА 4 | home: I.S.B.A. 2010 | away: РУСИЧ 2010 | score: 35:98 | kind: result
+
+file: p6795_4.jpg
+type: match_card
+date: 11.10.2026 | time: 09:00 | venue: ПАНФИЛОВА 4 | home: ПРОРЫВ 2014 | away: СПАРТА | score: 3:101 | kind: result
+
+file: p6795_5.jpg
+type: match_card
+date: 11.10.2026 | time: 10:30 | venue: ПАНФИЛОВА 4 | home: ПРОРЫВ 2010 | away: ФОРВАРД-1 | score: 13:147 | kind: result
+
+file: p6795_6.jpg
+type: match_card
+date: 11.10.2026 | time: 12:00 | venue: ПАНФИЛОВА 4 | home: СШ №7-1 | away: ФОРВАРД-2 | score: 30:69 | kind: result
+
+file: p6809_0.jpg
+type: photo
+note: Мужчина в игровой форме Dallas Mavericks №14 (Nike) в спортзале, улыбается.
+
+file: p6809_1.jpg
+type: photo
+note: То же фото, что p6809_0: мужчина в форме Dallas Mavericks №14 в спортзале.
+
+file: p6839_0.jpg
+type: match_card
+date: 17.10.2026 | time: 10:40 | venue: ПАНФИЛОВА 4 | home: I.S.B.A. 2012 | away: РУСИЧ 2012 | score: 60:58 | kind: result
+
+file: p6839_1.jpg
+type: match_card
+date: 17.10.2026 | time: 10:40 | venue: ПАНФИЛОВА 4 | home: I.S.B.A. 2012 | away: РУСИЧ 2012 | score: 60:58 | kind: result
+
+file: p6839_2.jpg
+type: match_card
+date: 17.10.2026 | time: 11:40 | venue: ПАНФИЛОВА 4 | home: I.S.B.A. 2016 | away: УЛЬТИМАТУМ | score: 52:25 | kind: result
+
+file: p6839_3.jpg
+type: match_card
+date: 18.10.2026 | time: 09:00 | venue: ПАНФИЛОВА 4 | home: КАГАЛЬНИК | away: ПРОРЫВ | score: 54:37 | kind: result
+
+file: p6839_4.jpg
+type: match_card
+date: 18.10.2026 | time: 10:20 | venue: ПАНФИЛОВА 4 | home: КОНСТАНТИНОВСК | away: ПРОРЫВ 2014 | score: 100:2 | kind: result
+
+file: p6839_5.jpg
+type: match_card
+date: 18.10.2026 | time: 11:40 | venue: ПАНФИЛОВА 4 | home: АМТ 2012 | away: ЕРМАК 2012 | score: 8:102 | kind: result
+
+file: p6839_6.jpg
+type: match_card
+date: 18.10.2026 | time: 13:00 | venue: ПАНФИЛОВА 4 | home: КОНСТАНТИНОВСК | away: ЕРМАК 2014 | score: 36:48 | kind: result

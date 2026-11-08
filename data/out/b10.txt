@@ -1,0 +1,67 @@
+file: p6275_0.jpg
+type: photo
+note: Game action photo — player in orange/red jersey dribbling in a sports hall (green floor), RBA logo watermark bottom-left; same photo as p6275_1 at lower resolution.
+
+file: p6275_1.jpg
+type: photo
+note: Game action photo — player in orange/red jersey dribbling in a sports hall (green floor), woman seated on bench in background, RBA logo watermark bottom-left (hi-res version of p6275_0).
+
+file: p6282_0.jpg
+type: match_card
+date: 03.05.2026 | time: 09:30 | venue: Панфилова 4 | home: Константиновск | away: СШОР № 5 | score: 46:66 | kind: result
+(note: logos — БК УРОЖАЙ (green emblem) left; ГБУ РО СШОР №5 РОСТОВСКАЯ ОБЛАСТЬ right; same card as p6282_1 at lower resolution)
+
+file: p6282_1.jpg
+type: match_card
+date: 03.05.2026 | time: 09:30 | venue: Панфилова 4 | home: Константиновск | away: СШОР № 5 | score: 46:66 | kind: result
+(note: hi-res version of p6282_0; logos — БК УРОЖАЙ left, ГБУ РО СШОР №5 РОСТОВСКАЯ ОБЛАСТЬ right)
+
+file: p6282_2.jpg
+type: match_card
+date: 03.05.2026 | time: 11:00 | venue: Панфилова 4 | home: Константиновск | away: Легион 2014 | score: 59:20 | kind: result
+(note: logos — БК УРОЖАЙ (green emblem) left; LEGION (spartan helmet) right)
+
+file: p6282_3.jpg
+type: match_card
+date: 03.05.2026 | time: 17:00 | venue: Белорусская 86 | home: (name not written; logo: white horse head in blue star) | away: (logo: KINGS SACRAMENTO) | score: 49:104 | kind: result
+(note: LBD-style card, "VIII СЕЗОН (25/26)" bottom-left, diagonal NBA Eastern/Western conference strip)
+
+file: p6282_4.jpg
+type: match_card
+date: 03.05.2026 | time: 18:20 | venue: Белорусская 86 | home: (name not written; logo: bison/bull head with lightning bolt shield) | away: (logo: CHICAGO BULLS) | score: 75:40 | kind: result
+(note: LBD-style card, "VIII СЕЗОН (25/26)" bottom-left, diagonal NBA Eastern/Western conference strip)
+
+file: p6282_5.jpg
+type: match_card
+date: 03.05.2026 | time: 19:40 | venue: Белорусская 86 | home: (logo: SEATTLE SUPERSONICS) | away: (logo: LOS ANGELES LAKERS) | score: 92:80 | kind: result
+(note: LBD-style card, "VIII СЕЗОН (25/26)" bottom-left, diagonal NBA Eastern/Western conference strip)
+
+file: p6296_0.jpg
+type: match_card
+date: 10.05.2026 | time: 10:00 | venue: Панфилова 4 | home: Батайск 2014 | away: Белые Афалины | score: — | kind: announcement
+(note: only ":" mark in the middle, no score; logos — LEGION (spartan helmet) left, БЕЛЫЕ АФАЛИНЫ (dolphin with basketball) right; same card as p6296_1 at lower resolution)
+
+file: p6296_1.jpg
+type: match_card
+date: 10.05.2026 | time: 10:00 | venue: Панфилова 4 | home: Батайск 2014 | away: Белые Афалины | score: — | kind: announcement
+(note: hi-res version of p6296_0; only ":" mark in the middle; LEGION logo left, БЕЛЫЕ АФАЛИНЫ logo right)
+
+file: p6306_0.jpg
+type: match_card
+date: 10.05.2026 | time: 10:00 | venue: Панфилова 4 | home: Батайск 2014 | away: Белые Афалины | score: 42:37 | kind: result
+(note: result card for the game announced in p6296; LEGION logo left, БЕЛЫЕ АФАЛИНЫ logo right; same card as p6306_1 at lower resolution)
+
+file: p6306_1.jpg
+type: match_card
+date: 10.05.2026 | time: 10:00 | venue: Панфилова 4 | home: Батайск 2014 | away: Белые Афалины | score: 42:37 | kind: result
+(note: hi-res version of p6306_0; LEGION logo left, БЕЛЫЕ АФАЛИНЫ logo right)
+
+file: p6306_2.jpg
+type: match_card
+date: 10.05.2026 | time: 18:00 | venue: Белорусская 86 | home: (logo: SEATTLE SUPERSONICS) | away: (logo: KINGS SACRAMENTO) | score: 65:94 | kind: result
+(note: LBD-style card, "VIII СЕЗОН (25/26)" bottom-left, diagonal NBA Eastern/Western conference strip)
+
+file: p6306_3.jpg
+type: match_card
+date: 10.05.2026 | time: 19:30 | venue: Белорусская 86 | home: (name not written; logo: spartan helmet in blue-yellow round emblem with Greek-key border) | away: (logo: GRIZZLIES MEMPHIS) | score: 45:100 | kind: result
+(note: LBD-style card, "VIII СЕЗОН (25/26)" bottom-left, diagonal NBA Eastern/Western conference strip)

@@ -1,0 +1,55 @@
+file: p5400_0.jpg
+type: match_card
+date: 05.04.2025 | time: 15:30 | venue: Дачная 8А | home: ЮФУ - 1 | away: Ростовчанки | score: 51:33 | kind: result
+
+file: p5400_1.jpg
+type: match_card
+date: 05.04.2025 | time: 15:30 | venue: Дачная 8А | home: ЮФУ - 1 | away: Ростовчанки | score: 51:33 | kind: result
+
+file: p5400_2.jpg
+type: match_card
+date: 06.04.2025 | time: 15:40 | venue: Белорусская 86 | home: Сальск 2012 | away: Кагальник 2012 | score: 56:50 | kind: result
+
+file: p5415_0.jpg
+type: match_card
+date: 12.04.2025 | time: 15:30 | venue: Дачная 8А | home: ЮФУ - 1 | away: Сан Антонио Сперс | score: — | kind: announcement
+
+file: p5415_1.jpg
+type: match_card
+date: 12.04.2025 | time: 15:30 | venue: Дачная 8А | home: ЮФУ - 1 | away: Сан Антонио Сперс | score: — | kind: announcement
+
+file: p5417_0.jpg
+type: match_card
+date: 12.04.2025 | time: 15:30 | venue: Дачная 8А | home: ЮФУ - 1 | away: Сан Антонио Сперс | score: 34:139 | kind: result
+
+file: p5417_1.jpg
+type: match_card
+date: 12.04.2025 | time: 15:30 | venue: Дачная 8А | home: ЮФУ - 1 | away: Сан Антонио Сперс | score: 34:139 | kind: result
+
+file: p5441_0.jpg
+type: match_card
+date: 19.04.2025 | time: 12:30 | venue: Панфилова 4 | home: Легион Юг | away: Сан Антонио Сперс | score: 42:104 | kind: result
+
+file: p5441_1.jpg
+type: match_card
+date: 19.04.2025 | time: 12:30 | venue: Панфилова 4 | home: Легион Юг | away: Сан Антонио Сперс | score: 42:104 | kind: result
+
+file: p5441_2.jpg
+type: match_card
+date: 20.04.2025 | time: 19:00 | venue: Белорусская 86 (VII СЕЗОН (24/25)) | home: CHICAGO | away: DALLAS | score: 99:49 | kind: result
+
+file: p5447_0.jpg
+type: match_card
+date: 26.04.2025 | time: 11:30 | venue: Панфилова 4 | home: Легион Юг | away: ЮФУ - 1 | score: 64:29 | kind: result
+
+file: p5447_1.jpg
+type: match_card
+date: 26.04.2025 | time: 11:30 | venue: Панфилова 4 | home: Легион Юг | away: ЮФУ - 1 | score: 64:29 | kind: result
+
+file: p5447_2.jpg
+type: match_card
+date: 26.04.2025 | time: 13:00 | venue: Панфилова 4 | home: Сан Антонио Сперс | away: Ростовчанки | score: 102:30 | kind: result
+
+file: p5447_3.jpg
+type: match_card
+date: 26.04.2025 | time: 16:00 | venue: Дачная 8А | home: ЮФУ - 1 | away: АМТ | score: 36:45 | kind: result

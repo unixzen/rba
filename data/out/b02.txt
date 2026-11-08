@@ -1,0 +1,77 @@
+file: p5758_0.jpg
+type: table
+Лучший игрок октября RBA Kids — Мартыненко Артём (фото в игровой форме, логотипы RBA, BANAN BASKET, Русич)
+
+| Показатель | Значение |
+|---|---|
+| PTS | 30,5 |
+| REB | 12 |
+| AST | 11,5 |
+| STL | 5 |
+| BLK | 1,5 |
+| 3PT | 2,5 |
+
+file: p5758_1.jpg
+type: table
+Лучший игрок октября RBA Kids — Мартыненко Артём (та же графика, другое разрешение; логотипы RBA, BANAN BASKET, Русич)
+
+| Показатель | Значение |
+|---|---|
+| PTS | 30,5 |
+| REB | 12 |
+| AST | 11,5 |
+| STL | 5 |
+| BLK | 1,5 |
+| 3PT | 2,5 |
+
+file: p5780_0.jpg
+type: match_card
+date: 09.11.2025 | time: 10:00 | venue: Панфилова 4 | home: Кагальник 2012 | away: I.S.B. Academy 2012 | score: 64:42 | kind: result
+
+file: p5780_1.jpg
+type: match_card
+date: 09.11.2025 | time: 10:00 | venue: Панфилова 4 | home: Кагальник 2012 | away: I.S.B. Academy 2012 | score: 64:42 | kind: result
+
+file: p5780_2.jpg
+type: match_card
+date: 09.11.2025 | time: 11:20 | venue: Панфилова 4 | home: Импульс 2010 | away: I.S.B. Academy 2010 | score: 21:45 | kind: result
+
+file: p5798_0.jpg
+type: match_card
+date: 16.11.2025 | time: 09:00 | venue: Панфилова 4 | home: Успех 2012 | away: I.S. Academy 2012 | score: 51:27 | kind: result
+
+file: p5798_1.jpg
+type: match_card
+date: 16.11.2025 | time: 09:00 | venue: Панфилова 4 | home: Успех 2012 | away: I.S. Academy 2012 | score: 51:27 | kind: result
+
+file: p5798_2.jpg
+type: match_card
+date: 16.11.2025 | time: 10:20 | venue: Панфилова 4 | home: Волгодонск 2014 | away: Белые Афалины | score: 48:22 | kind: result
+
+file: p5798_3.jpg
+type: match_card
+date: 16.11.2025 | time: 11:40 | venue: Панфилова 4 | home: Успех 2012 | away: Кагальник 2012 | score: 33:47 | kind: result
+
+file: p5798_4.jpg
+type: match_card
+date: 16.11.2025 | time: 13:00 | venue: Панфилова 4 | home: Волгодонск 2014 | away: ДЮСШ № 7 2014 | score: 19:58 | kind: result
+
+file: p5798_5.jpg
+type: match_card
+date: 16.11.2025 | time: 15:30 | venue: Белорусская 86 | home: Университет 2012 | away: АМТ 2012 | score: 43:48 | kind: result
+
+file: p5828_0.jpg
+type: match_card
+date: 22.11.2025 | time: 10:30 | venue: Панфилова 4 | home: Русич 2010 | away: I.S. Academy 2010 | score: 79:31 | kind: result
+
+file: p5828_1.jpg
+type: match_card
+date: 22.11.2025 | time: 10:30 | venue: Панфилова 4 | home: Русич 2010 | away: I.S. Academy 2010 | score: 79:31 | kind: result
+
+file: p5828_2.jpg
+type: match_card
+date: 22.11.2025 | time: 11:45 | venue: Панфилова 4 | home: Русич 2012 | away: I.S. Academy 2012 | score: 36:47 | kind: result
+
+file: p5828_3.jpg
+type: match_card
+date: 22.11.2025 | time: 13:00 | venue: Панфилова 4 | home: Легион 2014 | away: ДЮСШ №7 2014 | score: 11:54 | kind: result

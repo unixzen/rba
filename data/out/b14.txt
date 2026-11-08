@@ -1,0 +1,55 @@
+file: p6541_0.jpg
+type: match_card
+date: 21.06.2026 | time: 09:45 | venue: Панфилова 4 | home: ДЮСШ № 7 | away: Легион 2014 | score: 85:9 | kind: result
+
+file: p6541_1.jpg
+type: match_card
+date: 21.06.2026 | time: 09:45 | venue: Панфилова 4 | home: ДЮСШ № 7 | away: Легион 2014 | score: 85:9 | kind: result
+
+file: p6541_2.jpg
+type: match_card
+date: 21.06.2026 | time: 10:55 | venue: Панфилова 4 | home: Константиновск | away: СШОР № 5 | score: 47:26 | kind: result
+
+file: p6541_3.jpg
+type: match_card
+date: 21.06.2026 | time: 12:10 | venue: Панфилова 4 | home: СШОР № 5 | away: Легион 2014 | score: 24:26 | kind: result
+
+file: p6541_4.jpg
+type: match_card
+date: 21.06.2026 | time: 13:20 | venue: Панфилова 4 | home: Константиновск | away: ДЮСШ № 7 | score: 39:58 | kind: result
+
+file: p6546_0.jpg
+type: photo
+note: Awards ceremony photo: coach in red/blue/white shirt with young players holding trophies and wearing medals on an outdoor court.
+
+file: p6546_1.jpg
+type: photo
+note: Awards ceremony photo (same scene as p6546_0, larger): coach with players in white, blue and maroon uniforms holding cups/trophies and medals.
+
+file: p6546_2.jpg
+type: photo
+note: Team photo of ЮНОСТЬ (white uniforms) with gold medals and a trophy, coach behind the players.
+
+file: p6546_3.jpg
+type: photo
+note: Team photo of a team in blue uniforms with medals and small cups, coach in red shirt behind them.
+
+file: p6546_4.jpg
+type: photo
+note: Team photo of a team in black/orange uniforms with medals, coach in pink shirt in the middle.
+
+file: p6546_5.jpg
+type: photo
+note: Team photo of ЮНОСТЬ (white uniforms) with gold medals and a trophy, one player in blue alongside.
+
+file: p6546_6.jpg
+type: photo
+note: Team photo of a team in blue ДЮСШ uniforms with medals and a commemorative T-shirt, coach in orange shirt.
+
+file: p6546_7.jpg
+type: photo
+note: Team photo of a team in maroon/gold uniforms with medals, coach in red polo among the players.
+
+file: p6546_8.jpg
+type: photo
+note: Photo of a coach (red/white/blue shirt) with a young ЮНОСТЬ player holding an individual trophy figurine.

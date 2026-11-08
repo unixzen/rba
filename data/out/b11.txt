@@ -1,0 +1,52 @@
+file: p6322_0.jpg
+type: match_card
+date: 17.05.2026 | time: 10:15 | venue: Панфилова 4 | home: ДЮСШ №7 2010 | away: I.S.B. 2010 | score: - | kind: announcement
+
+file: p6322_1.jpg
+type: match_card
+date: 17.05.2026 | time: 10:15 | venue: Панфилова 4 | home: ДЮСШ №7 2010 | away: I.S.B. 2010 | score: - | kind: announcement
+
+file: p6324_0.jpg
+type: match_card
+date: 17.05.2026 | time: 11:30 | venue: ПАНФИЛОВА 4 | home: MINNESOTA TIMBERWOLVES | away: LOS ANGELES LAKERS | score: 33:59 | kind: result
+note: VIII СЕЗОН (25/26)
+
+file: p6324_1.jpg
+type: match_card
+date: 17.05.2026 | time: 11:30 | venue: ПАНФИЛОВА 4 | home: MINNESOTA TIMBERWOLVES | away: LOS ANGELES LAKERS | score: 33:59 | kind: result
+note: VIII СЕЗОН (25/26)
+
+file: p6324_2.jpg
+type: match_card
+date: 17.05.2026 | time: 12:50 | venue: ПАНФИЛОВА 4 | home: PHOENIX SUNS | away: (название не написано — логотип: голова быка/бизона с молнией на щите) | score: 59:61 | kind: result
+note: VIII СЕЗОН (25/26)
+
+file: p6324_3.jpg
+type: match_card
+date: 17.05.2026 | time: 14:10 | venue: ПАНФИЛОВА 4 | home: GRIZZLIES MEMPHIS | away: KINGS SACRAMENTO | score: 56:106 | kind: result
+note: VIII СЕЗОН (25/26)
+
+file: p6324_4.jpg
+type: match_card
+date: 17.05.2026 | time: 15:30 | venue: ПАНФИЛОВА 4 | home: BOSTON CELTICS | away: (название не написано — логотип: шлем спартанца/воина, сине-жёлтый) | score: 64:69 | kind: result
+note: VIII СЕЗОН (25/26)
+
+file: p6324_5.jpg
+type: match_card
+date: 17.05.2026 | time: 10:15 | venue: Панфилова 4 | home: ДЮСШ №7 2010 | away: I.S.B. 2010 | score: 64:49 | kind: result
+
+file: p6365_0.jpg
+type: match_card
+date: 23.05.2026 | time: 08:45 | venue: Комарова 1 / 1 | home: Белые Афалины | away: СШОР № 5 | score: 20:33 | kind: result
+
+file: p6365_1.jpg
+type: match_card
+date: 23.05.2026 | time: 08:45 | venue: Комарова 1 / 1 | home: Белые Афалины | away: СШОР № 5 | score: 20:33 | kind: result
+
+file: p6365_2.jpg
+type: match_card
+date: 23.05.2026 | time: 10:20 | venue: Комарова 1 / 1 | home: ДЮСШ №7 2014 | away: СШОР № 5 | score: 48:41 | kind: result
+
+file: p6365_3.jpg
+type: match_card
+date: 24.05.2026 | time: 10:30 | venue: Панфилова 4 | home: Русич 2012 | away: Импульс 2012 | score: 54:51 | kind: result

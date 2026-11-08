@@ -1,0 +1,88 @@
+file: p5852_0.jpg
+type: match_card
+date: 30.11.2025 | time: 09:30 | venue: Панфилова 4 | home: Кагальник 2012 | away: АМТ 2012 | score: 21:98 | kind: result
+
+file: p5852_1.jpg
+type: match_card
+date: 30.11.2025 | time: 09:30 | venue: Панфилова 4 | home: Кагальник 2012 | away: АМТ 2012 | score: 21:98 | kind: result
+
+file: p5852_2.jpg
+type: match_card
+date: 30.11.2025 | time: 10:45 | venue: Панфилова 4 | home: Легион 2010 | away: I.S. Academy 2010 | score: 65:16 | kind: result
+
+file: p5852_3.jpg
+type: match_card
+date: 30.11.2025 | time: 12:00 | venue: Панфилова 4 | home: Университет 2012 | away: Импульс 2012 | score: 45:18 | kind: result
+
+file: p5852_4.jpg
+type: match_card
+date: 30.11.2025 | time: 13:10 | venue: Панфилова 4 | home: Белые Афалины 2014 | away: Легион 2014 | score: 27:28 | kind: result
+
+file: p5874_0.jpg
+type: table
+Award card — Лучший игрок ноября в чемпионата RBA Kids 2012
+| Показатель | Значение |
+|---|---|
+| Игрок | Денисенко Дмитрий |
+| PTS | 31 |
+| REB | 5 |
+| AST | 2,5 |
+| STL | 7,5 |
+| 3PT | 3,5 |
+
+Caption: Лучший игрок ноября в чемпионата RBA Kids 2012
+Logos: RBA, BANAN BASKET, АКАДЕМИЯ БАСКЕТБОЛА ТКАЧЕНКО
+
+file: p5874_1.jpg
+type: table
+Award card — Лучший игрок ноября в чемпионата RBA Kids 2012 (duplicate of p5874_0, larger version)
+| Показатель | Значение |
+|---|---|
+| Игрок | Денисенко Дмитрий |
+| PTS | 31 |
+| REB | 5 |
+| AST | 2,5 |
+| STL | 7,5 |
+| 3PT | 3,5 |
+
+Caption: Лучший игрок ноября в чемпионата RBA Kids 2012
+Logos: RBA, BANAN BASKET, АКАДЕМИЯ БАСКЕТБОЛА ТКАЧЕНКО
+
+file: p5874_2.jpg
+type: table
+Award card — Лучший игрок ноября в чемпионата RBA Kids 2014
+| Показатель | Значение |
+|---|---|
+| Игрок | Туркин Иван |
+| PTS | 23 |
+| REB | 3 |
+| AST | 4,5 |
+| STL | 2,5 |
+| BLK | 0,5 |
+
+Caption: Лучший игрок ноября в чемпионата RBA Kids 2014
+Logos: RBA, BANAN BASKET, МБУДО ДЮСШ № 7 Ростов-на-Дону
+
+file: p5878_0.jpg
+type: match_card
+date: 07.12.2025 | time: 09:30 | venue: Панфилова 4 | home: Феникс Волгодонск | away: АМТ 2012 | score: 24:86 | kind: result
+
+file: p5878_1.jpg
+type: match_card
+date: 07.12.2025 | time: 09:30 | venue: Панфилова 4 | home: Феникс Волгодонск | away: АМТ 2012 | score: 24:86 | kind: result
+
+file: p5878_2.jpg
+type: match_card
+date: 07.12.2025 | time: 10:30 | venue: Панфилова 4 | home: Успех 2012 | away: Импульс 2012 | score: 36:32 | kind: result
+
+file: p5878_3.jpg
+type: match_card
+date: 07.12.2025 | time: 11:30 | venue: Панфилова 4 | home: Волгодонск 2014 | away: СШОР № 5 | score: 21:37 | kind: result
+
+file: p5878_4.jpg
+type: match_card
+date: 07.12.2025 | time: 12:30 | venue: Панфилова 4 | home: Университет 2012 | away: Успех 2012 | score: 33:27 | kind: result
+
+file: p5878_5.jpg
+type: match_card
+date: 07.12.2025 | time: 13:30 | venue: Панфилова 4 | home: Легион 2014 | away: Волгодонск 2014 | score: 52:37 | kind: result

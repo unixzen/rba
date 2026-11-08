@@ -1,0 +1,51 @@
+file: p5647_0.jpg
+type: photo
+note: Game photo of a player in teal "ДЮСШ РУСИЧ" jersey #20 in an indoor gym.
+
+file: p5647_1.jpg
+type: photo
+note: Same game photo of a player in teal "ДЮСШ РУСИЧ" jersey #20 in an indoor gym.
+
+file: p5656_0.jpg
+type: photo
+note: Team photo of two youth teams (maroon "ДЮСШ ЛОКОМОТИВ" and teal "ДЮСШ РУСИЧ" jerseys) with medals and coaches on a green court.
+
+file: p5656_1.jpg
+type: photo
+note: Wider version of the same team photo of the two youth teams with medals and coaches.
+
+file: p5671_0.jpg
+type: photo
+note: Game photo of a girl in black/pink "СПОРТИВНАЯ ШКОЛА №7" jersey #10 preparing to shoot.
+
+file: p5671_1.jpg
+type: photo
+note: Same game photo of the girl in black/pink "СПОРТИВНАЯ ШКОЛА №7" jersey #10 preparing to shoot.
+
+file: p5671_2.jpg
+type: photo
+note: Game photo of a girl in black/pink "СПОРТИВНАЯ ШКОЛА №7" jersey dribbling past two boys in orange "БАРС" jerseys.
+
+file: p5671_3.jpg
+type: photo
+note: Game photo of a girl in red/white "СПОРТИВНАЯ ..." jersey dribbling on a parquet court.
+
+file: p5678_0.jpg
+type: match_card
+date: 11.10.2025 | time: 11:30 | venue: Панфилова 4 | home: Кагальник 2012 | away: Русич 2012 | score: 58:53 | kind: result
+
+file: p5678_1.jpg
+type: match_card
+date: 11.10.2025 | time: 11:30 | venue: Панфилова 4 | home: Кагальник 2012 | away: Русич 2012 | score: 58:53 | kind: result
+
+file: p5678_2.jpg
+type: match_card
+date: 12.10.2025 | time: 11:30 | venue: Панфилова 4 | home: Легион 2010 | away: ДЮСШ № 7 | score: 56:31 | kind: result
+
+file: p5678_3.jpg
+type: match_card
+date: 12.10.2025 | time: 13:00 | venue: Панфилова 4 | home: РУСИЧ 2010 | away: БК ИМПУЛЬС | score: 122:30 | kind: result
+
+file: p5678_4.jpg
+type: match_card
+date: 12.10.2025 | time: 15:30 | venue: Белорусская 86 | home: Wild Cats | away: Ростовчанки | score: 61:11 | kind: result

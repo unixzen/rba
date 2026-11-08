@@ -1,0 +1,23 @@
+file: p6450_2.jpg
+type: photo
+note: Team huddle in a gym — coach with beard in white T-shirt and kids in red jerseys (No. 25, 55 visible) putting hands together in the center; RBA logo bottom-left.
+
+file: p6450_3.jpg
+type: photo
+note: Game action in an indoor gym — players in red jerseys (No. 52, 13) vs players in dark green/black jerseys attacking the basket, coach watching from the sideline; RBA logo bottom-left.
+
+file: p6160_0.jpg
+type: match_card
+date: 29.03.2026 | time: 12:10 | venue: Панфилова 4 | home: Импульс 2012 | away: АМТ 2012 | score: | kind: announcement
+
+file: p6160_1.jpg
+type: match_card
+date: 29.03.2026 | time: 12:10 | venue: Панфилова 4 | home: Импульс 2012 | away: АМТ 2012 | score: | kind: announcement
+
+file: p6253_0.jpg
+type: match_card
+date: 26.04.2026 | time: 12:00 | venue: Панфилова 4 | home: Русич 2010 | away: ДЮСШ №7 | score: | kind: announcement
+
+file: p6253_1.jpg
+type: match_card
+date: 26.04.2026 | time: 12:00 | venue: Панфилова 4 | home: Русич 2010 | away: ДЮСШ №7 | score: | kind: announcement

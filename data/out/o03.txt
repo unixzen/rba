@@ -1,0 +1,55 @@
+file: p5013_17.jpg
+type: match_card
+date: 26.10.2024 | time: 10:00 | venue: Панфилова 4 | home: Афалины | away: Легион Юг | score: - | kind: announcement
+
+file: p5013_18.jpg
+type: match_card
+date: 26.10.2024 | time: 10:00 | venue: Панфилова 4 | home: Афалины | away: Легион Юг | score: - | kind: announcement
+
+file: p5013_19.jpg
+type: match_card
+date: 26.10.2024 | time: 10:00 | venue: Панфилова 4 | home: Афалины | away: Легион Юг | score: - | kind: announcement
+
+file: p5013_20.jpg
+type: match_card
+date: 26.10.2024 | time: 10:00 | venue: Панфилова 4 | home: Афалины | away: Легион Юг | score: - | kind: announcement
+
+file: p5013_21.jpg
+type: match_card
+date: 26.10.2024 | time: 10:00 | venue: Панфилова 4 | home: Афалины | away: Легион Юг | score: - | kind: announcement
+
+file: p5013_4.jpg
+type: match_card
+date: 26.10.2024 | time: 16:00 | venue: Дачная 8а | home: ЮФУ - 2 | away: Сан Антонио Сперс | score: - | kind: announcement
+
+file: p5013_5.jpg
+type: match_card
+date: 26.10.2024 | time: 16:00 | venue: Дачная 8а | home: ЮФУ - 2 | away: Сан Антонио Сперс | score: - | kind: announcement
+
+file: p5013_6.jpg
+type: match_card
+date: 26.10.2024 | time: 16:00 | venue: Дачная 8а | home: ЮФУ - 2 | away: Сан Антонио Сперс | score: - | kind: announcement
+
+file: p5013_7.jpg
+type: match_card
+date: 26.10.2024 | time: 16:00 | venue: Дачная 8а | home: ЮФУ - 2 | away: Сан Антонио Сперс | score: - | kind: announcement
+
+file: p5013_8.jpg
+type: match_card
+date: 26.10.2024 | time: 16:00 | venue: Дачная 8а | home: ЮФУ - 2 | away: Сан Антонио Сперс | score: - | kind: announcement
+
+file: p5013_9.jpg
+type: match_card
+date: 26.10.2024 | time: 16:00 | venue: Дачная 8а | home: ЮФУ - 2 | away: Сан Антонио Сперс | score: - | kind: announcement
+
+file: p5030_0.jpg
+type: match_card
+date: 03.11.2024 | time: 10:00 | venue: Панфилова 4 | home: ДЮСШ №7 | away: Легион Юг | score: - | kind: announcement
+
+file: p5030_1.jpg
+type: match_card
+date: 03.11.2024 | time: 10:00 | venue: Панфилова 4 | home: ДЮСШ №7 | away: Легион Юг | score: - | kind: announcement
+
+file: p5041_0.jpg
+type: match_card
+date: 10.11.2024 | time: 13:30 | venue: Панфилова 4 | home: Ростовчанки | away: Легион Юг | score: - | kind: announcement

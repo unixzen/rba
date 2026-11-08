@@ -1,0 +1,55 @@
+file: p5452_26.jpg
+type: match_card
+date: 26.04.2025 | time: 13:00 | venue: Панфилова 4 | home: Сан Антонио Сперс | away: Ростовчанки | score: — | kind: announcement
+
+file: p5452_27.jpg
+type: match_card
+date: 26.04.2025 | time: 13:00 | venue: Панфилова 4 | home: Сан Антонио Сперс | away: Ростовчанки | score: — | kind: announcement
+
+file: p5452_28.jpg
+type: match_card
+date: 26.04.2025 | time: 13:00 | venue: Панфилова 4 | home: Сан Антонио Сперс | away: Ростовчанки | score: — | kind: announcement
+
+file: p5452_29.jpg
+type: match_card
+date: 26.04.2025 | time: 13:00 | venue: Панфилова 4 | home: Сан Антонио Сперс | away: Ростовчанки | score: — | kind: announcement
+
+file: p5452_30.jpg
+type: match_card
+date: 26.04.2025 | time: 13:00 | venue: Панфилова 4 | home: Сан Антонио Сперс | away: Ростовчанки | score: — | kind: announcement
+
+file: p5452_31.jpg
+type: match_card
+date: 26.04.2025 | time: 13:00 | venue: Панфилова 4 | home: Сан Антонио Сперс | away: Ростовчанки | score: — | kind: announcement
+
+file: p5452_4.jpg
+type: match_card
+date: 26.04.2025 | time: 11:30 | venue: Панфилова 4 | home: Легион Юг | away: ЮФУ - 1 | score: — | kind: announcement
+
+file: p5452_5.jpg
+type: match_card
+date: 26.04.2025 | time: 11:30 | venue: Панфилова 4 | home: Легион Юг | away: ЮФУ - 1 | score: — | kind: announcement
+
+file: p5452_6.jpg
+type: match_card
+date: 26.04.2025 | time: 11:30 | venue: Панфилова 4 | home: Легион Юг | away: ЮФУ - 1 | score: — | kind: announcement
+
+file: p5452_7.jpg
+type: match_card
+date: 26.04.2025 | time: 11:30 | venue: Панфилова 4 | home: Легион Юг | away: ЮФУ - 1 | score: — | kind: announcement
+
+file: p5452_8.jpg
+type: match_card
+date: 26.04.2025 | time: 11:30 | venue: Панфилова 4 | home: Легион Юг | away: ЮФУ - 1 | score: — | kind: announcement
+
+file: p5452_9.jpg
+type: match_card
+date: 26.04.2025 | time: 11:30 | venue: Панфилова 4 | home: Легион Юг | away: ЮФУ - 1 | score: — | kind: announcement
+
+file: p5482_0.jpg
+type: match_card
+date: 10.05.2025 | time: 10:30 | venue: Панфилова 4 | home: Легион Юг | away: Ростовчанки | score: 55:36 | kind: result
+
+file: p5482_1.jpg
+type: match_card
+date: 10.05.2025 | time: 10:30 | venue: Панфилова 4 | home: Легион Юг | away: Ростовчанки | score: 55:36 | kind: result

@@ -1,0 +1,68 @@
+file: p6139_0.jpg
+type: match_card
+date: 22.03.2026 | time: 09:30 | venue: Панфилова 4 | home: Русич 2012 | away: АМТ 2012 | score: 42:70 | kind: result
+
+file: p6139_1.jpg
+type: match_card
+date: 22.03.2026 | time: 09:30 | venue: Панфилова 4 | home: Русич 2012 | away: АМТ 2012 | score: 42:70 | kind: result
+
+file: p6139_2.jpg
+type: match_card
+date: 22.03.2026 | time: 10:50 | venue: Панфилова 4 | home: Кагальник 2012 | away: Университет 2012 | score: 20:61 | kind: result
+
+file: p6139_3.jpg
+type: match_card
+date: 22.03.2026 | time: 12:10 | venue: Панфилова 4 | home: Волгодонск 2014 | away: Легион 2014 | score: 46:21 | kind: result
+
+file: p6160_0.jpg
+type: match_card
+date: 29.03.2026 | time: 12:10 | venue: Панфилова 4 | home: Импульс 2012 | away: АМТ 2012 | score: - | kind: announcement
+
+file: p6160_1.jpg
+type: match_card
+date: 29.03.2026 | time: 12:10 | venue: Панфилова 4 | home: Импульс 2012 | away: АМТ 2012 | score: - | kind: announcement
+
+file: p6177_0.jpg
+type: table
+Лучший игрок марта чемпионата RBA Kids 2014 - 2015 (award graphic)
+- Игрок: Торопов Арсений (ДЮСШ 1, № 30)
+- PTS - 12.5
+- REB - 6
+- AST - 3
+- STL - 4
+- BIK - 1
+Логотипы: RBA, BANAN BASKET, БК УРОЖАЙ
+
+file: p6177_1.jpg
+type: table
+Лучший игрок марта чемпионата RBA Kids 2014 - 2015 (award graphic)
+- Игрок: Торопов Арсений (ДЮСШ 1, № 30)
+- PTS - 12.5
+- REB - 6
+- AST - 3
+- STL - 4
+- BIK - 1
+Логотипы: RBA, BANAN BASKET, БК УРОЖАЙ
+
+file: p6177_2.jpg
+type: table
+Лучший игрок марта чемпионата RBA Kids 2012 - 2013 (award graphic)
+- Игрок: Федотов Александр (№ 81)
+- PTS - 20
+- REB - 5.5
+- AST - 3
+- STL - 4
+- BIK - 1
+Логотипы: RBA, BANAN BASKET, АКАДЕМИЯ БАСКЕТБОЛА ТКАЧЕНКО
+
+file: p6183_0.jpg
+type: match_card
+date: 05.04.2026 | time: 09:00 | venue: Панфилова 4 | home: Русич 2012 | away: АМТ 2012 | score: 40:122 | kind: result
+
+file: p6183_1.jpg
+type: match_card
+date: 05.04.2026 | time: 09:00 | venue: Панфилова 4 | home: Русич 2012 | away: АМТ 2012 | score: 40:122 | kind: result
+
+file: p6183_2.jpg
+type: match_card
+date: 05.04.2026 | time: 10:30 | venue: Панфилова 4 | home: Белые Афалины | away: ДЮСШ № 7 | score: 9:59 | kind: result

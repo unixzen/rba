@@ -1,0 +1,55 @@
+file: p5094_3.jpg
+type: match_card
+date: 08.12.2024 | time: 14:00 | venue: Панфилова 4 | home: ДЮСШ №7 | away: Сан Антонио Сперс | score: — | kind: announcement
+
+file: p5106_0.jpg
+type: match_card
+date: 07.12.2024 | time: 11:00 | venue: Панфилова 4 | home: Ростовчанки | away: Дивы Бузена Суэрта | score: 52:45 | kind: result
+
+file: p5106_1.jpg
+type: match_card
+date: 07.12.2024 | time: 11:00 | venue: Панфилова 4 | home: Ростовчанки | away: Дивы Бузена Суэрта | score: 52:45 | kind: result
+
+file: p5106_2.jpg
+type: match_card
+date: 07.12.2024 | time: 12:30 | venue: Панфилова 4 | home: Легион Север | away: Кагальник 2009 | score: 79:10 | kind: result
+
+file: p5106_3.jpg
+type: match_card
+date: 08.12.2024 | time: 14:00 | venue: Панфилова 4 | home: ДЮСШ №7 | away: Сан Антонио Сперс | score: 48:88 | kind: result
+
+file: p5115_0.jpg
+type: match_card
+date: 14.12.2024 | time: 11:00 | venue: Панфилова 4 | home: Дивы Бузена Суэрта | away: АМТ | score: — | kind: announcement
+
+file: p5115_1.jpg
+type: match_card
+date: 14.12.2024 | time: 11:00 | venue: Панфилова 4 | home: Дивы Бузена Суэрта | away: АМТ | score: — | kind: announcement
+
+file: p5115_2.jpg
+type: match_card
+date: 14.12.2024 | time: 12:30 | venue: Панфилова 4 | home: Кагальник 2009 | away: Волгодонск 2009 | score: — | kind: announcement
+
+file: p5115_3.jpg
+type: match_card
+date: 14.12.2024 | time: 14:00 | venue: Панфилова 4 | home: Волгодонск 2009 | away: Сальск 2009 | score: — | kind: announcement
+
+file: p5115_4.jpg
+type: match_card
+date: 15.12.2024 | time: 14:30 | venue: Панфилова 4 | home: Сан Антонио Сперс | away: ДЮСШ №7 | score: — | kind: announcement
+
+file: p5117_0.jpg
+type: match_card
+date: 14.12.2024 | time: 11:00 | venue: Панфилова 4 | home: Дивы Бузена Суэрта | away: АМТ | score: 53:47 | kind: result
+
+file: p5117_1.jpg
+type: match_card
+date: 14.12.2024 | time: 11:00 | venue: Панфилова 4 | home: Дивы Бузена Суэрта | away: АМТ | score: 53:47 | kind: result
+
+file: p5117_2.jpg
+type: match_card
+date: 14.12.2024 | time: 12:30 | venue: Панфилова 4 | home: Кагальник 2009 | away: Волгодонск 2009 | score: 15:121 | kind: result
+
+file: p5117_3.jpg
+type: match_card
+date: 14.12.2024 | time: 14:00 | venue: Панфилова 4 | home: Волгодонск 2009 | away: Сальск 2009 | score: 101:55 | kind: result

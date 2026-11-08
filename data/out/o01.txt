@@ -1,0 +1,55 @@
+file: p4991_1.jpg
+type: match_card
+date: 19.10.2024 | time: 16:40 | venue: Дачная 8а | home: Афалины | away: ЮФУ - 2 | score: — | kind: announcement
+
+file: p4991_10.jpg
+type: match_card
+date: 19.10.2024 | time: 16:40 | venue: Дачная 8а | home: Афалины | away: ЮФУ - 2 | score: — | kind: announcement
+
+file: p4991_13.jpg
+type: match_card
+date: 19.10.2024 | time: 15:30 | venue: Дачная 8а | home: ЮФУ - 1 | away: Ростовчанки | score: — | kind: announcement
+
+file: p4991_14.jpg
+type: match_card
+date: 19.10.2024 | time: 15:30 | venue: Дачная 8а | home: ЮФУ - 1 | away: Ростовчанки | score: — | kind: announcement
+
+file: p4991_15.jpg
+type: match_card
+date: 19.10.2024 | time: 15:30 | venue: Дачная 8а | home: ЮФУ - 1 | away: Ростовчанки | score: — | kind: announcement
+
+file: p4991_16.jpg
+type: match_card
+date: 19.10.2024 | time: 15:30 | venue: Дачная 8а | home: ЮФУ - 1 | away: Ростовчанки | score: — | kind: announcement
+
+file: p4991_17.jpg
+type: match_card
+date: 19.10.2024 | time: 15:30 | venue: Дачная 8а | home: ЮФУ - 1 | away: Ростовчанки | score: — | kind: announcement
+
+file: p4991_18.jpg
+type: match_card
+date: 19.10.2024 | time: 15:30 | venue: Дачная 8а | home: ЮФУ - 1 | away: Ростовчанки | score: — | kind: announcement
+
+file: p4991_19.jpg
+type: match_card
+date: 19.10.2024 | time: 15:30 | venue: Дачная 8а | home: ЮФУ - 1 | away: Ростовчанки | score: — | kind: announcement
+
+file: p4991_20.jpg
+type: match_card
+date: 19.10.2024 | time: 15:30 | venue: Дачная 8а | home: ЮФУ - 1 | away: Ростовчанки | score: — | kind: announcement
+
+file: p4991_4.jpg
+type: match_card
+date: 19.10.2024 | time: 16:40 | venue: Дачная 8а | home: Афалины | away: ЮФУ - 2 | score: — | kind: announcement
+
+file: p4991_5.jpg
+type: match_card
+date: 19.10.2024 | time: 16:40 | venue: Дачная 8а | home: Афалины | away: ЮФУ - 2 | score: — | kind: announcement
+
+file: p4991_6.jpg
+type: match_card
+date: 19.10.2024 | time: 16:40 | venue: Дачная 8а | home: Афалины | away: ЮФУ - 2 | score: — | kind: announcement
+
+file: p4991_7.jpg
+type: match_card
+date: 19.10.2024 | time: 16:40 | venue: Дачная 8а | home: Афалины | away: ЮФУ - 2 | score: — | kind: announcement

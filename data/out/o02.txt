@@ -1,0 +1,58 @@
+file: p4991_8.jpg
+type: match_card
+date: 19.10.2024 | time: 16:40 | venue: Дачная 8а | home: Афалины | away: ЮФУ - 2 | score: — | kind: announcement
+
+file: p4991_9.jpg
+type: match_card
+date: 19.10.2024 | time: 16:40 | venue: Дачная 8а | home: Афалины | away: ЮФУ - 2 | score: — | kind: announcement
+
+file: p5003_0.jpg
+type: match_card
+date: 26.10.2024 | time: 10:00 | venue: Панфилова 4 | home: Афалины | away: Легион Юг | score: 14:77 | kind: result
+
+file: p5003_1.jpg
+type: match_card
+date: 26.10.2024 | time: 10:00 | venue: Панфилова 4 | home: Афалины | away: Легион Юг | score: 14:77 | kind: result
+
+file: p5003_2.jpg
+type: match_card
+date: 26.10.2024 | time: 11:30 | venue: Панфилова 4 | home: Кагальник | away: Успех | score: 16:55 | kind: result
+
+file: p5003_3.jpg
+type: match_card
+date: 26.10.2024 | time: 13:00 | venue: Панфилова 4 | home: Легион Юг | away: Дивы Буэна Суэрта | score: 72:27 | kind: result
+
+file: p5003_4.jpg
+type: match_card
+date: 26.10.2024 | time: 16:00 | venue: Дачная 8а | home: ЮФУ - 2 | away: Сан Антонио Сперс | score: 40:98 | kind: result
+
+file: p5013_0.jpg
+type: match_card
+date: 26.10.2024 | time: 16:00 | venue: Дачная 8а | home: ЮФУ - 2 | away: Сан Антонио Сперс | score: — | kind: announcement
+note: video thumbnail of the announcement card
+
+file: p5013_1.jpg
+type: match_card
+date: 26.10.2024 | time: 16:00 | venue: Дачная 8а | home: ЮФУ - 2 | away: Сан Антонио Сперс | score: — | kind: announcement
+note: video thumbnail of the announcement card
+
+file: p5013_10.jpg
+type: match_card
+date: 26.10.2024 | time: 16:00 | venue: Дачная 8а | home: ЮФУ - 2 | away: Сан Антонио Сперс | score: — | kind: announcement
+
+file: p5013_11.jpg
+type: match_card
+date: 26.10.2024 | time: 16:00 | venue: Дачная 8а | home: ЮФУ - 2 | away: Сан Антонио Сперс | score: — | kind: announcement
+
+file: p5013_14.jpg
+type: match_card
+date: 26.10.2024 | time: 10:00 | venue: Панфилова 4 | home: Афалины | away: Легион Юг | score: — | kind: announcement
+note: small thumbnail of the announcement card
+
+file: p5013_15.jpg
+type: match_card
+date: 26.10.2024 | time: 10:00 | venue: Панфилова 4 | home: Афалины | away: Легион Юг | score: — | kind: announcement
+
+file: p5013_16.jpg
+type: match_card
+date: 26.10.2024 | time: 10:00 | venue: Панфилова 4 | home: Афалины | away: Легион Юг | score: — | kind: announcement

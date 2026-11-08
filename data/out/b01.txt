@@ -1,0 +1,51 @@
+file: p5701_0.jpg
+type: match_card
+date: 19.10.2025 | time: 10:00 | venue: Панфилова 4 | home: Легион 2010 | away: I.S. Basketball Academy 2010 | score: 97:17 | kind: result
+
+file: p5701_1.jpg
+type: match_card
+date: 19.10.2025 | time: 10:00 | venue: Панфилова 4 | home: Легион 2010 | away: I.S. Basketball Academy 2010 | score: 97:17 | kind: result
+
+file: p5701_2.jpg
+type: match_card
+date: 19.10.2025 | time: 11:30 | venue: Панфилова 4 | home: Кагальник 2012 | away: Легион 2012 | score: 56:68 | kind: result
+
+file: p5719_0.jpg
+type: match_card
+date: 26.10.2025 | time: 11:00 | venue: Панфилова 4 | home: Русич 2010 | away: ДЮСШ № 7 | score: - | kind: announcement
+
+file: p5719_1.jpg
+type: match_card
+date: 26.10.2025 | time: 11:00 | venue: Панфилова 4 | home: Русич 2010 | away: ДЮСШ № 7 | score: - | kind: announcement
+
+file: p5719_2.jpg
+type: match_card
+date: 26.10.2025 | time: 12:30 | venue: Панфилова 4 | home: Легион 2010 | away: Импульс 2010 | score: - | kind: announcement
+
+file: p5720_0.jpg
+type: match_card
+date: 26.10.2025 | time: 11:00 | venue: Панфилова 4 | home: Русич 2010 | away: ДЮСШ № 7 | score: 99:65 | kind: result
+
+file: p5720_1.jpg
+type: match_card
+date: 26.10.2025 | time: 11:00 | venue: Панфилова 4 | home: Русич 2010 | away: ДЮСШ № 7 | score: 99:65 | kind: result
+
+file: p5720_2.jpg
+type: match_card
+date: 26.10.2025 | time: 12:30 | venue: Панфилова 4 | home: Легион 2010 | away: Импульс 2010 | score: 65:24 | kind: result
+
+file: p5725_0.jpg
+type: photo
+note: Player in teal ДЮСШ РУСИЧ jersey #20 standing in a gym, RBA watermark bottom-left.
+
+file: p5725_1.jpg
+type: photo
+note: Same player in teal ДЮСШ РУСИЧ jersey #20 in the gym, teammates (#5 and a player in pink) in the background.
+
+file: p5725_2.jpg
+type: other
+note: Audio cover art: "REMIX / Танец", minimalist line drawing of clasped hands with a small red heart.
+
+file: p5725_3.jpg
+type: other
+note: Audio cover art: "Подарю тебе — Жариков", man on a rooftop at sunset offering a gift box to a woman.

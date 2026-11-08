@@ -1,0 +1,39 @@
+file: p5570_2.jpg
+type: match_card
+date: 20.06.2025 | time: 15:00 | venue: Кагальник | home: УСПЕХ 2012 | away: КАГАЛЬНИК 2012 | score: 41:52 | kind: result
+
+file: p5579_0.jpg
+type: photo
+note: Combined team photo of both finalists with medals and trophy, scoreboard reads 60:66 (quarter 4, 0.0).
+
+file: p5579_1.jpg
+type: photo
+note: Combined team photo of both teams with medals and trophy in the center, scoreboard reads 60:66 (quarter 4, 0.0).
+
+file: p5579_2.jpg
+type: photo
+note: Team photo of the orange-jersey team (РСУ jerseys, numbers 23, 20, 96, 5, 67, 33, 16) with medals and coach.
+
+file: p5579_3.jpg
+type: photo
+note: Coach in black t-shirt with winner's medal making double victory signs.
+
+file: p5579_4.jpg
+type: photo
+note: Team photo of the white/blue team (griffin crest jerseys) with gold medals.
+
+file: p5580_0.jpg
+type: photo
+note: Award photo: young player #20 in orange РСУ jersey holding award plaque with coach in the gym.
+
+file: p5580_1.jpg
+type: photo
+note: Award photo: same player #20 in orange РСУ jersey holding award plaque and medal with coach.
+
+file: p5580_2.jpg
+type: photo
+note: Award photo: three players in white/blue jerseys (numbers 6, 14, 4) holding award plaques with medals, coach alongside.
+
+file: p5580_3.jpg
+type: photo
+note: Award photo: player #33 in orange РСУ jersey receiving pink sneakers in a box from the coach.

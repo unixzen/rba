@@ -1,0 +1,55 @@
+file: p5452_0.jpg
+type: match_card
+date: 26.04.2025 | time: 11:30 | venue: Панфилова 4 | home: Легион Юг | away: ЮФУ - 1 | score: - | kind: announcement
+
+file: p5452_1.jpg
+type: match_card
+date: 26.04.2025 | time: 11:30 | venue: Панфилова 4 | home: Легион Юг | away: ЮФУ - 1 | score: - | kind: announcement
+
+file: p5452_10.jpg
+type: match_card
+date: 26.04.2025 | time: 11:30 | venue: Панфилова 4 | home: Легион Юг | away: ЮФУ - 1 | score: - | kind: announcement
+
+file: p5452_11.jpg
+type: match_card
+date: 26.04.2025 | time: 11:30 | venue: Панфилова 4 | home: Легион Юг | away: ЮФУ - 1 | score: - | kind: announcement
+
+file: p5452_14.jpg
+type: match_card
+date: 26.04.2025 | time: 16:00 | venue: Дачная 8А | home: ЮФУ - 1 | away: АМТ | score: - | kind: announcement
+
+file: p5452_15.jpg
+type: match_card
+date: 26.04.2025 | time: 16:00 | venue: Дачная 8А | home: ЮФУ - 1 | away: АМТ | score: - | kind: announcement
+
+file: p5452_16.jpg
+type: match_card
+date: 26.04.2025 | time: 16:00 | venue: Дачная 8А | home: ЮФУ - 1 | away: АМТ | score: - | kind: announcement
+
+file: p5452_17.jpg
+type: match_card
+date: 26.04.2025 | time: 16:00 | venue: Дачная 8А | home: ЮФУ - 1 | away: АМТ | score: - | kind: announcement
+
+file: p5452_18.jpg
+type: match_card
+date: 26.04.2025 | time: 16:00 | venue: Дачная 8А | home: ЮФУ - 1 | away: АМТ | score: - | kind: announcement
+
+file: p5452_19.jpg
+type: match_card
+date: 26.04.2025 | time: 16:00 | venue: Дачная 8А | home: ЮФУ - 1 | away: АМТ | score: - | kind: announcement
+
+file: p5452_20.jpg
+type: match_card
+date: 26.04.2025 | time: 16:00 | venue: Дачная 8А | home: ЮФУ - 1 | away: АМТ | score: - | kind: announcement
+
+file: p5452_21.jpg
+type: match_card
+date: 26.04.2025 | time: 16:00 | venue: Дачная 8А | home: ЮФУ - 1 | away: АМТ | score: - | kind: announcement
+
+file: p5452_24.jpg
+type: match_card
+date: 26.04.2025 | time: 13:00 | venue: Панфилова 4 | home: Сан Антонио Сперс | away: Ростовчанки | score: - | kind: announcement
+
+file: p5452_25.jpg
+type: match_card
+date: 26.04.2025 | time: 13:00 | venue: Панфилова 4 | home: Сан Антонио Сперс | away: Ростовчанки | score: - | kind: announcement
