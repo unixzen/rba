@@ -3,7 +3,7 @@
   "title": "RBA Kids — результаты и турнирные таблицы",
   "source_name": "Rostov Basketball Association | RBA",
   "source_url": "https://vk.com/rba_rostov_basketball",
-  "generated_at": "2026-11-08T12:48:21",
+  "generated_at": "2026-11-08T13:18:18",
   "seasons": [
    "2024/2025",
    "2025/2026",
@@ -3474,6 +3474,25 @@
    "source_image": "p6795_6.jpg"
   },
   {
+   "date": "11.10.2026",
+   "iso_date": "2026-10-11",
+   "time": "13:30",
+   "season": "2026/2027",
+   "group": "2016",
+   "league": "rba_kids",
+   "home": "I.S.B.A. 2016",
+   "away": "ИМПУЛЬС 2016",
+   "home_key": "исба",
+   "away_key": "импульс",
+   "home_display": "I.S.B.A. 2016",
+   "away_display": "ИМПУЛЬС 2016",
+   "score": "40:10",
+   "kind": "result",
+   "venue": "ПАНФИЛОВА 4",
+   "source_post": "https://vk.com/wall-165244874_6795",
+   "source_image": "p6795_7.jpg"
+  },
+  {
    "date": "17.10.2026",
    "iso_date": "2026-10-17",
    "time": "10:40",
@@ -3852,6 +3871,120 @@
    "venue": "ПАНФИЛОВА 4",
    "source_post": "https://vk.com/wall-165244874_6911",
    "source_image": "p6911_6.jpg"
+  },
+  {
+   "date": "07.11.2026",
+   "iso_date": "2026-11-07",
+   "time": "09:30",
+   "season": "2026/2027",
+   "group": "2014",
+   "league": "rba_kids",
+   "home": "УЛЬТИМАТУМ",
+   "away": "БЕЛЫЕ АФАЛИНЫ",
+   "home_key": "ультиматум",
+   "away_key": "белые афалины",
+   "home_display": "УЛЬТИМАТУМ",
+   "away_display": "БЕЛЫЕ АФАЛИНЫ",
+   "score": "106:17",
+   "kind": "result",
+   "venue": "ПАНФИЛОВА 4",
+   "source_post": "https://vk.com/wall-165244874_6954",
+   "source_image": "p6954_0.jpg"
+  },
+  {
+   "date": "07.11.2026",
+   "iso_date": "2026-11-07",
+   "time": "10:45",
+   "season": "2026/2027",
+   "group": "2014",
+   "league": "rba_kids",
+   "home": "КОНСТАНТИНОВСК",
+   "away": "БЕЛЫЕ АФАЛИНЫ",
+   "home_key": "константиновск",
+   "away_key": "белые афалины",
+   "home_display": "Урожай (Константиновск)",
+   "away_display": "БЕЛЫЕ АФАЛИНЫ",
+   "score": "19:40",
+   "kind": "result",
+   "venue": "ПАНФИЛОВА 4",
+   "source_post": "https://vk.com/wall-165244874_6954",
+   "source_image": "p6954_2.jpg"
+  },
+  {
+   "date": "07.11.2026",
+   "iso_date": "2026-11-07",
+   "time": "12:00",
+   "season": "2026/2027",
+   "group": "2012",
+   "league": "rba_kids",
+   "home": "УСПЕХ 2012",
+   "away": "СШ №7-1",
+   "home_key": "успех",
+   "away_key": "сш № 7-1",
+   "home_display": "УСПЕХ 2012",
+   "away_display": "СШ №7-1",
+   "score": "62:38",
+   "kind": "result",
+   "venue": "ПАНФИЛОВА 4",
+   "source_post": "https://vk.com/wall-165244874_6954",
+   "source_image": "p6954_3.jpg"
+  },
+  {
+   "date": "07.11.2026",
+   "iso_date": "2026-11-07",
+   "time": "13:15",
+   "season": "2026/2027",
+   "group": "2014",
+   "league": "rba_kids",
+   "home": "КОНСТАНТИНОВСК",
+   "away": "ЮНОСТЬ",
+   "home_key": "константиновск",
+   "away_key": "юность",
+   "home_display": "Урожай (Константиновск)",
+   "away_display": "ЮНОСТЬ",
+   "score": "40:37",
+   "kind": "result",
+   "venue": "ПАНФИЛОВА 4",
+   "source_post": "https://vk.com/wall-165244874_6954",
+   "source_image": "p6954_4.jpg"
+  },
+  {
+   "date": "07.11.2026",
+   "iso_date": "2026-11-07",
+   "time": "14:30",
+   "season": "2026/2027",
+   "group": "2012",
+   "league": "rba_kids",
+   "home": "УСПЕХ 2012",
+   "away": "СШ №7-2",
+   "home_key": "успех",
+   "away_key": "сш № 7-2",
+   "home_display": "УСПЕХ 2012",
+   "away_display": "СШ №7-2",
+   "score": "89:19",
+   "kind": "result",
+   "venue": "ПАНФИЛОВА 4",
+   "source_post": "https://vk.com/wall-165244874_6954",
+   "source_image": "p6954_5.jpg"
+  },
+  {
+   "date": "07.11.2026",
+   "iso_date": "2026-11-07",
+   "time": "15:45",
+   "season": "2026/2027",
+   "group": "2010",
+   "league": "rba_kids",
+   "home": "РОСТОВ-ПАПА",
+   "away": "I.S.B.A. 2010",
+   "home_key": "ростов-папа",
+   "away_key": "исба",
+   "home_display": "РОСТОВ-ПАПА",
+   "away_display": "I.S.B.A. 2010",
+   "score": "72:42",
+   "kind": "result",
+   "venue": "ПАНФИЛОВА 4",
+   "source_post": "https://vk.com/wall-165244874_6954",
+   "source_image": "p6954_6.jpg"
   }
  ],
  "standings": {
@@ -4608,6 +4741,42 @@
   "2026/2027": {
    "2014": [
     {
+     "team": "БЕЛЫЕ АФАЛИНЫ",
+     "key": "белые афалины",
+     "played": 6,
+     "wins": 1,
+     "losses": 5,
+     "scored": 177,
+     "conceded": 424,
+     "diff": -247,
+     "points": 7,
+     "place": 1
+    },
+    {
+     "team": "Урожай (Константиновск)",
+     "key": "константиновск",
+     "played": 4,
+     "wins": 2,
+     "losses": 2,
+     "scored": 195,
+     "conceded": 127,
+     "diff": 68,
+     "points": 6,
+     "place": 2
+    },
+    {
+     "team": "ЮНОСТЬ",
+     "key": "юность",
+     "played": 3,
+     "wins": 2,
+     "losses": 1,
+     "scored": 151,
+     "conceded": 108,
+     "diff": 43,
+     "points": 5,
+     "place": 3
+    },
+    {
      "team": "СПАРТА",
      "key": "спарта",
      "played": 2,
@@ -4617,43 +4786,19 @@
      "conceded": 28,
      "diff": 181,
      "points": 4,
-     "place": 1
-    },
-    {
-     "team": "ЮНОСТЬ",
-     "key": "юность",
-     "played": 2,
-     "wins": 2,
-     "losses": 0,
-     "scored": 114,
-     "conceded": 68,
-     "diff": 46,
-     "points": 4,
-     "place": 2
-    },
-    {
-     "team": "БЕЛЫЕ АФАЛИНЫ",
-     "key": "белые афалины",
-     "played": 4,
-     "wins": 0,
-     "losses": 4,
-     "scored": 120,
-     "conceded": 299,
-     "diff": -179,
-     "points": 4,
-     "place": 3
-    },
-    {
-     "team": "Урожай (Константиновск)",
-     "key": "константиновск",
-     "played": 2,
-     "wins": 1,
-     "losses": 1,
-     "scored": 136,
-     "conceded": 50,
-     "diff": 86,
-     "points": 3,
      "place": 4
+    },
+    {
+     "team": "УЛЬТИМАТУМ",
+     "key": "ультиматум",
+     "played": 1,
+     "wins": 1,
+     "losses": 0,
+     "scored": 106,
+     "conceded": 17,
+     "diff": 89,
+     "points": 2,
+     "place": 5
     },
     {
      "team": "ФОРВАРД - 2",
@@ -4665,7 +4810,7 @@
      "conceded": 23,
      "diff": 49,
      "points": 2,
-     "place": 5
+     "place": 6
     },
     {
      "team": "КАТЮША 2014",
@@ -4677,7 +4822,7 @@
      "conceded": 21,
      "diff": 39,
      "points": 2,
-     "place": 6
+     "place": 7
     },
     {
      "team": "ЕРМАК 2014",
@@ -4689,7 +4834,7 @@
      "conceded": 36,
      "diff": 12,
      "points": 2,
-     "place": 7
+     "place": 8
     },
     {
      "team": "ПРОРЫВ 2014",
@@ -4701,7 +4846,7 @@
      "conceded": 201,
      "diff": -196,
      "points": 2,
-     "place": 8
+     "place": 9
     },
     {
      "team": "БАТАЙСК 2014",
@@ -4713,7 +4858,7 @@
      "conceded": 55,
      "diff": -38,
      "points": 1,
-     "place": 9
+     "place": 10
     }
    ],
    "unknown": [
@@ -4828,6 +4973,18 @@
    ],
    "2016": [
     {
+     "team": "I.S.B.A. 2016",
+     "key": "исба",
+     "played": 3,
+     "wins": 2,
+     "losses": 1,
+     "scored": 116,
+     "conceded": 81,
+     "diff": 35,
+     "points": 5,
+     "place": 1
+    },
+    {
      "team": "ДЮСШ №7 2016",
      "key": "дюсш № 7",
      "played": 2,
@@ -4837,18 +4994,6 @@
      "conceded": 36,
      "diff": 60,
      "points": 4,
-     "place": 1
-    },
-    {
-     "team": "I.S.B.A. 2016",
-     "key": "исба",
-     "played": 2,
-     "wins": 1,
-     "losses": 1,
-     "scored": 76,
-     "conceded": 71,
-     "diff": 5,
-     "points": 3,
      "place": 2
     },
     {
@@ -4888,6 +5033,18 @@
      "place": 5
     },
     {
+     "team": "ИМПУЛЬС 2016",
+     "key": "импульс",
+     "played": 2,
+     "wins": 0,
+     "losses": 2,
+     "scored": 22,
+     "conceded": 90,
+     "diff": -68,
+     "points": 2,
+     "place": 6
+    },
+    {
      "team": "БАГИРА 2016",
      "key": "багира",
      "played": 1,
@@ -4896,18 +5053,6 @@
      "scored": 29,
      "conceded": 37,
      "diff": -8,
-     "points": 1,
-     "place": 6
-    },
-    {
-     "team": "ИМПУЛЬС 2016",
-     "key": "импульс",
-     "played": 1,
-     "wins": 0,
-     "losses": 1,
-     "scored": 12,
-     "conceded": 50,
-     "diff": -38,
      "points": 1,
      "place": 7
     }
@@ -4926,6 +5071,30 @@
      "place": 1
     },
     {
+     "team": "УСПЕХ 2012",
+     "key": "успех",
+     "played": 3,
+     "wins": 2,
+     "losses": 1,
+     "scored": 192,
+     "conceded": 124,
+     "diff": 68,
+     "points": 5,
+     "place": 2
+    },
+    {
+     "team": "СШ №7-1",
+     "key": "сш № 7-1",
+     "played": 3,
+     "wins": 1,
+     "losses": 2,
+     "scored": 163,
+     "conceded": 145,
+     "diff": 18,
+     "points": 4,
+     "place": 3
+    },
+    {
      "team": "РУСИЧ 2012",
      "key": "русич",
      "played": 2,
@@ -4935,19 +5104,7 @@
      "conceded": 71,
      "diff": 51,
      "points": 3,
-     "place": 2
-    },
-    {
-     "team": "СШ №7-1",
-     "key": "сш № 7-1",
-     "played": 2,
-     "wins": 1,
-     "losses": 1,
-     "scored": 125,
-     "conceded": 83,
-     "diff": 42,
-     "points": 3,
-     "place": 3
+     "place": 4
     },
     {
      "team": "УНИВЕРСИТЕТ 2012",
@@ -4959,7 +5116,7 @@
      "conceded": 78,
      "diff": 22,
      "points": 3,
-     "place": 4
+     "place": 5
     },
     {
      "team": "АМТ 2012",
@@ -4971,7 +5128,7 @@
      "conceded": 297,
      "diff": -249,
      "points": 3,
-     "place": 5
+     "place": 6
     },
     {
      "team": "УЛЬТИМАТУМ",
@@ -4983,7 +5140,7 @@
      "conceded": 14,
      "diff": 78,
      "points": 2,
-     "place": 6
+     "place": 7
     },
     {
      "team": "I.S.B.A. 2012",
@@ -4995,30 +5152,18 @@
      "conceded": 58,
      "diff": 2,
      "points": 2,
-     "place": 7
-    },
-    {
-     "team": "УСПЕХ",
-     "key": "успех",
-     "played": 1,
-     "wins": 0,
-     "losses": 1,
-     "scored": 41,
-     "conceded": 67,
-     "diff": -26,
-     "points": 1,
      "place": 8
     },
     {
      "team": "СШ №7-2",
      "key": "сш № 7-2",
-     "played": 1,
+     "played": 2,
      "wins": 0,
-     "losses": 1,
-     "scored": 11,
-     "conceded": 64,
-     "diff": -53,
-     "points": 1,
+     "losses": 2,
+     "scored": 30,
+     "conceded": 153,
+     "diff": -123,
+     "points": 2,
      "place": 9
     }
    ],
@@ -5048,6 +5193,18 @@
      "place": 2
     },
     {
+     "team": "РОСТОВ-ПАПА",
+     "key": "ростов-папа",
+     "played": 1,
+     "wins": 1,
+     "losses": 0,
+     "scored": 72,
+     "conceded": 42,
+     "diff": 30,
+     "points": 2,
+     "place": 3
+    },
+    {
      "team": "ДЮСШ №7 2010",
      "key": "дюсш № 7",
      "played": 1,
@@ -5057,7 +5214,19 @@
      "conceded": 54,
      "diff": 6,
      "points": 2,
-     "place": 3
+     "place": 4
+    },
+    {
+     "team": "I.S.B.A. 2010",
+     "key": "исба",
+     "played": 2,
+     "wins": 0,
+     "losses": 2,
+     "scored": 77,
+     "conceded": 170,
+     "diff": -93,
+     "points": 2,
+     "place": 5
     },
     {
      "team": "РОСТОВ - ПАПА",
@@ -5069,7 +5238,7 @@
      "conceded": 60,
      "diff": -6,
      "points": 1,
-     "place": 4
+     "place": 6
     },
     {
      "team": "БАТАЙСК 2010",
@@ -5081,19 +5250,7 @@
      "conceded": 80,
      "diff": -16,
      "points": 1,
-     "place": 5
-    },
-    {
-     "team": "I.S.B.A. 2010",
-     "key": "исба",
-     "played": 1,
-     "wins": 0,
-     "losses": 1,
-     "scored": 35,
-     "conceded": 98,
-     "diff": -63,
-     "points": 1,
-     "place": 6
+     "place": 7
     },
     {
      "team": "ПРОРЫВ 2010",
@@ -5105,7 +5262,7 @@
      "conceded": 147,
      "diff": -134,
      "points": 1,
-     "place": 7
+     "place": 8
     }
    ]
   }

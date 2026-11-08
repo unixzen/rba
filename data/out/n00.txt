@@ -1,0 +1,51 @@
+file: p5246_0.jpg
+type: photo
+note: Game photo of player СУЛТАНОВ ДМИТРИЙ (ФОРВАД, спортивная школа №7, #10) with overlay Бруклин Нетс 95:43 Лос-Анджелес Лейкерс, PTS 18 / REB 2 / BLK 1.
+
+file: p5597_0.jpg
+type: photo
+note: Man with medal and "Welcome on the Black Slope" t-shirt posing with peace signs (RBA logo corner).
+
+file: p5597_1.jpg
+type: photo
+note: Same man with medal and "Welcome on the Black Slope" t-shirt posing with peace signs (RBA logo corner).
+
+file: p6795_7.jpg
+type: match_card
+date: 11.10.2026 | time: 13:30 | venue: ПАНФИЛОВА 4 | home: I.S.B.A. 2016 | away: ИМПУЛЬС 2016 | score: 40:10 | kind: result
+
+file: p6898_0.jpg
+type: photo
+note: Game action photo of a player in yellow/maroon uniform running on an indoor court behind a goal net (RBA logo corner).
+
+file: p6898_1.jpg
+type: photo
+note: Game action photo of a player in yellow/maroon uniform running on an indoor court behind a goal net (RBA logo corner).
+
+file: p6954_0.jpg
+type: match_card
+date: 07.11.2026 | time: 09:30 | venue: ПАНФИЛОВА 4 | home: УЛЬТИМАТУМ | away: БЕЛЫЕ АФАЛИНЫ | score: 106:17 | kind: result
+
+file: p6954_1.jpg
+type: match_card
+date: 07.11.2026 | time: 09:30 | venue: ПАНФИЛОВА 4 | home: УЛЬТИМАТУМ | away: БЕЛЫЕ АФАЛИНЫ | score: 106:17 | kind: result
+
+file: p6954_2.jpg
+type: match_card
+date: 07.11.2026 | time: 10:45 | venue: ПАНФИЛОВА 4 | home: КОНСТАНТИНОВСК | away: БЕЛЫЕ АФАЛИНЫ | score: 19:40 | kind: result
+
+file: p6954_3.jpg
+type: match_card
+date: 07.11.2026 | time: 12:00 | venue: ПАНФИЛОВА 4 | home: УСПЕХ 2012 | away: СШ №7-1 | score: 62:38 | kind: result
+
+file: p6954_4.jpg
+type: match_card
+date: 07.11.2026 | time: 13:15 | venue: ПАНФИЛОВА 4 | home: КОНСТАНТИНОВСК | away: ЮНОСТЬ | score: 40:37 | kind: result
+
+file: p6954_5.jpg
+type: match_card
+date: 07.11.2026 | time: 14:30 | venue: ПАНФИЛОВА 4 | home: УСПЕХ 2012 | away: СШ №7-2 | score: 89:19 | kind: result
+
+file: p6954_6.jpg
+type: match_card
+date: 07.11.2026 | time: 15:45 | venue: ПАНФИЛОВА 4 | home: РОСТОВ-ПАПА | away: I.S.B.A. 2010 | score: 72:42 | kind: result
