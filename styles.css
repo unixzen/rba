@@ -1,0 +1,169 @@
+:root {
+  --green: #1f9d55;
+  --green-dark: #157a41;
+  --ink: #21272e;
+  --muted: #6b7683;
+  --bg: #f6f8f7;
+  --card: #ffffff;
+  --line: #e2e8e4;
+  --gold: #f4b400;
+  --silver: #9aa5b1;
+  --bronze: #c87f3d;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: "Segoe UI", Roboto, Arial, sans-serif;
+  color: var(--ink);
+  background: var(--bg);
+}
+
+header {
+  background: linear-gradient(135deg, var(--green-dark), var(--green));
+  color: #fff;
+  padding: 22px 20px 18px;
+}
+header h1 { margin: 0 0 6px; font-size: 24px; }
+header .sub { margin: 0; opacity: .9; font-size: 14px; }
+header a { color: #fff; }
+
+.tabs {
+  display: flex;
+  gap: 6px;
+  background: var(--card);
+  padding: 10px 16px 0;
+  border-bottom: 1px solid var(--line);
+  position: sticky;
+  top: 0;
+  z-index: 5;
+}
+.tab {
+  border: 1px solid var(--line);
+  border-bottom: none;
+  background: var(--bg);
+  padding: 9px 18px;
+  border-radius: 8px 8px 0 0;
+  cursor: pointer;
+  font-size: 15px;
+}
+.tab.active {
+  background: var(--card);
+  color: var(--green-dark);
+  font-weight: 600;
+  border-color: var(--green);
+  border-bottom: 2px solid var(--card);
+  margin-bottom: -1px;
+}
+
+main { padding: 16px; max-width: 1080px; margin: 0 auto; }
+.panel { display: none; }
+.panel.active { display: block; }
+
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 12px;
+  margin-bottom: 14px;
+}
+.controls label {
+  display: flex;
+  flex-direction: column;
+  font-size: 12px;
+  color: var(--muted);
+  gap: 4px;
+  min-width: 150px;
+}
+.controls select, .controls input {
+  padding: 7px 9px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  font-size: 14px;
+  background: #fff;
+}
+
+.table-wrap { overflow-x: auto; background: var(--card); border: 1px solid var(--line); border-radius: 10px; }
+table { border-collapse: collapse; width: 100%; font-size: 14px; }
+th, td { padding: 8px 10px; text-align: left; border-bottom: 1px solid var(--line); white-space: nowrap; }
+thead th {
+  background: var(--green-dark);
+  color: #fff;
+  cursor: pointer;
+  position: sticky;
+  top: 0;
+  user-select: none;
+}
+thead th:first-child { cursor: default; }
+tbody tr:hover { background: #f0f6f2; }
+tr.my-team { background: #fff6d6 !important; font-weight: 600; }
+tr.p1 td:first-child::before { content: "🏆 "; }
+tr.p2 td:first-child::before { content: "🥈 "; }
+tr.p3 td:first-child::before { content: "🥉 "; }
+
+.pos { color: var(--muted); }
+.w { color: var(--green-dark); font-weight: 700; }
+.l { color: #b23b3b; }
+.diff-pos { color: var(--green-dark); }
+.diff-neg { color: #b23b3b; }
+
+.finals {
+  background: #fffbea;
+  border: 1px solid #f0e3ad;
+  border-radius: 10px;
+  padding: 10px 14px;
+  margin-bottom: 14px;
+  font-size: 14px;
+}
+.finals b { color: var(--green-dark); }
+
+.day { margin: 14px 0 6px; font-weight: 700; color: var(--green-dark); font-size: 15px; }
+.game-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 8px 12px;
+  margin: 5px 0;
+  flex-wrap: wrap;
+  font-size: 14px;
+}
+.game-row .time { color: var(--muted); min-width: 42px; }
+.game-row .team { cursor: pointer; }
+.game-row .team:hover { color: var(--green-dark); text-decoration: underline; }
+.game-row .score {
+  font-weight: 700;
+  background: var(--green);
+  color: #fff;
+  border-radius: 6px;
+  padding: 2px 9px;
+}
+.game-row .score.upcoming { background: var(--muted); }
+.game-row .venue { color: var(--muted); font-size: 12px; margin-left: auto; }
+
+.stat-cards { display: flex; flex-wrap: wrap; gap: 10px; margin: 12px 0; }
+.stat {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 10px 16px;
+  min-width: 110px;
+  text-align: center;
+}
+.stat .num { font-size: 22px; font-weight: 700; color: var(--green-dark); }
+.stat .lbl { font-size: 12px; color: var(--muted); }
+
+h3 { margin: 22px 0 8px; }
+.hint { color: var(--muted); font-size: 12px; }
+footer { text-align: center; color: var(--muted); font-size: 12px; padding: 18px; }
+
+@media (max-width: 640px) {
+  header h1 { font-size: 19px; }
+  .controls label { min-width: 100%; }
+  .tab { flex: 1; padding: 9px 6px; text-align: center; }
+}

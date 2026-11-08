@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RBA Kids — результаты и турнирные таблицы</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+  <h1>🏀 RBA Kids — результаты и таблицы</h1>
+  <p class="sub">Чемпионат RBA Kids (Ростов-на-Дону) · сезоны 2024/25 — 2026/27 ·
+    источник: <a href="https://vk.com/rba_rostov_basketball" target="_blank" rel="noopener">VK RBA</a>
+  </p>
+</header>
+
+<nav class="tabs">
+  <button class="tab active" data-tab="tables">Таблицы</button>
+  <button class="tab" data-tab="games">Матчи</button>
+  <button class="tab" data-tab="teams">Команды</button>
+</nav>
+
+<main>
+  <!-- ======== ТАБЛИЦЫ ======== -->
+  <section id="tab-tables" class="panel active">
+    <div class="controls">
+      <label>Сезон
+        <select id="t-season"></select>
+      </label>
+      <label>Возрастная группа
+        <select id="t-group"></select>
+      </label>
+      <label>Моя команда
+        <select id="t-myteam"><option value="">— не выбрана —</option></select>
+      </label>
+    </div>
+    <div id="t-finals" class="finals"></div>
+    <div class="table-wrap">
+      <table id="standings">
+        <thead></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <p class="hint">Очки: 2 за победу, 1 за поражение. Клик по заголовку колонки — сортировка.</p>
+  </section>
+
+  <!-- ======== МАТЧИ ======== -->
+  <section id="tab-games" class="panel">
+    <div class="controls">
+      <label>Сезон
+        <select id="g-season"><option value="">все</option></select>
+      </label>
+      <label>Группа
+        <select id="g-group"><option value="">все</option></select>
+      </label>
+      <label>Команда
+        <input id="g-team" type="text" placeholder="введите название…">
+      </label>
+      <label>Месяц
+        <select id="g-month"><option value="">все</option></select>
+      </label>
+      <label>Площадка
+        <select id="g-venue"><option value="">все</option></select>
+      </label>
+    </div>
+    <div id="games-list"></div>
+    <p class="hint">Клик по названию команды — переход на вкладку «Команды».</p>
+  </section>
+
+  <!-- ======== КОМАНДЫ ======== -->
+  <section id="tab-teams" class="panel">
+    <div class="controls">
+      <label>Команда
+        <select id="c-team"></select>
+      </label>
+    </div>
+    <div id="team-card"></div>
+    <h3>Матчи против соперников (за все сезоны)</h3>
+    <div class="table-wrap">
+      <table id="h2h">
+        <thead><tr><th>Соперник</th><th>И</th><th>В</th><th>П</th><th>Счёт суммарно</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <h3>Все матчи команды</h3>
+    <div id="team-games"></div>
+  </section>
+</main>
+
+<footer>
+  <p>Данные собраны из карточек матчей VK-сообщества RBA. Таблицы рассчитаны автоматически по результатам.</p>
+</footer>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
