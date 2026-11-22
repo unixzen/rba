@@ -3,7 +3,7 @@
   "title": "RBA Kids — результаты и турнирные таблицы",
   "source_name": "Rostov Basketball Association | RBA",
   "source_url": "https://vk.com/rba_rostov_basketball",
-  "generated_at": "2026-11-14T21:42:52",
+  "generated_at": "2026-11-22T22:03:49",
   "seasons": [
    "2024/2025",
    "2025/2026",
@@ -3985,6 +3985,82 @@
    "venue": "ПАНФИЛОВА 4",
    "source_post": "https://vk.com/wall-165244874_6954",
    "source_image": "p6954_6.jpg"
+  },
+  {
+   "date": "21.11.2026",
+   "iso_date": "2026-11-21",
+   "time": "10:50",
+   "season": "2026/2027",
+   "group": "2012",
+   "league": "rba_kids",
+   "home": "ЕРМАК 2012",
+   "away": "УСПЕХ 2012",
+   "home_key": "ермак",
+   "away_key": "успех",
+   "home_display": "ЕРМАК 2012",
+   "away_display": "УСПЕХ 2012",
+   "score": "50:46",
+   "kind": "result",
+   "venue": "ПАНФИЛОВА 4",
+   "source_post": "https://vk.com/wall-165244874_7022",
+   "source_image": "p7022_2.jpg"
+  },
+  {
+   "date": "21.11.2026",
+   "iso_date": "2026-11-21",
+   "time": "12:10",
+   "season": "2026/2027",
+   "group": "2016",
+   "league": "rba_kids",
+   "home": "I.S.B.A. 2016",
+   "away": "УЛЬТИМАТУМ",
+   "home_key": "исба",
+   "away_key": "ультиматум",
+   "home_display": "I.S.B.A. 2016",
+   "away_display": "УЛЬТИМАТУМ",
+   "score": "60:4",
+   "kind": "result",
+   "venue": "ПАНФИЛОВА 4",
+   "source_post": "https://vk.com/wall-165244874_7022",
+   "source_image": "p7022_3.jpg"
+  },
+  {
+   "date": "21.11.2026",
+   "iso_date": "2026-11-21",
+   "time": "13:30",
+   "season": "2026/2027",
+   "group": "2012",
+   "league": "rba_kids",
+   "home": "УСПЕХ 2012",
+   "away": "УЛЬТИМАТУМ",
+   "home_key": "успех",
+   "away_key": "ультиматум",
+   "home_display": "УСПЕХ 2012",
+   "away_display": "УЛЬТИМАТУМ",
+   "score": "41:51",
+   "kind": "result",
+   "venue": "ПАНФИЛОВА 4",
+   "source_post": "https://vk.com/wall-165244874_7022",
+   "source_image": "p7022_4.jpg"
+  },
+  {
+   "date": "21.11.2026",
+   "iso_date": "2026-11-21",
+   "time": "14:50",
+   "season": "2026/2027",
+   "group": "2016",
+   "league": "rba_kids",
+   "home": "I.S.B.A. 2016",
+   "away": "ИМПУЛЬС 2016",
+   "home_key": "исба",
+   "away_key": "импульс",
+   "home_display": "I.S.B.A. 2016",
+   "away_display": "ИМПУЛЬС 2016",
+   "score": "49:7",
+   "kind": "result",
+   "venue": "ПАНФИЛОВА 4",
+   "source_post": "https://vk.com/wall-165244874_7022",
+   "source_image": "p7022_5.jpg"
   }
  ],
  "standings": {
@@ -4975,13 +5051,13 @@
     {
      "team": "I.S.B.A. 2016",
      "key": "исба",
-     "played": 3,
-     "wins": 2,
+     "played": 5,
+     "wins": 4,
      "losses": 1,
-     "scored": 116,
-     "conceded": 81,
-     "diff": 35,
-     "points": 5,
+     "scored": 225,
+     "conceded": 92,
+     "diff": 133,
+     "points": 9,
      "place": 1
     },
     {
@@ -4997,6 +5073,30 @@
      "place": 2
     },
     {
+     "team": "УЛЬТИМАТУМ",
+     "key": "ультиматум",
+     "played": 3,
+     "wins": 0,
+     "losses": 3,
+     "scored": 62,
+     "conceded": 171,
+     "diff": -109,
+     "points": 3,
+     "place": 3
+    },
+    {
+     "team": "ИМПУЛЬС 2016",
+     "key": "импульс",
+     "played": 3,
+     "wins": 0,
+     "losses": 3,
+     "scored": 29,
+     "conceded": 139,
+     "diff": -110,
+     "points": 3,
+     "place": 4
+    },
+    {
      "team": "КАТЮША 2016 - 2",
      "key": "катюша 2016 - 2",
      "played": 1,
@@ -5006,7 +5106,7 @@
      "conceded": 33,
      "diff": 26,
      "points": 2,
-     "place": 3
+     "place": 5
     },
     {
      "team": "КАТЮША 2016 - 1",
@@ -5017,30 +5117,6 @@
      "scored": 37,
      "conceded": 29,
      "diff": 8,
-     "points": 2,
-     "place": 4
-    },
-    {
-     "team": "УЛЬТИМАТУМ",
-     "key": "ультиматум",
-     "played": 2,
-     "wins": 0,
-     "losses": 2,
-     "scored": 58,
-     "conceded": 111,
-     "diff": -53,
-     "points": 2,
-     "place": 5
-    },
-    {
-     "team": "ИМПУЛЬС 2016",
-     "key": "импульс",
-     "played": 2,
-     "wins": 0,
-     "losses": 2,
-     "scored": 22,
-     "conceded": 90,
-     "diff": -68,
      "points": 2,
      "place": 6
     },
@@ -5061,26 +5137,38 @@
     {
      "team": "ЕРМАК 2012",
      "key": "ермак",
-     "played": 3,
-     "wins": 3,
+     "played": 4,
+     "wins": 4,
      "losses": 0,
-     "scored": 225,
-     "conceded": 92,
-     "diff": 133,
-     "points": 6,
+     "scored": 275,
+     "conceded": 138,
+     "diff": 137,
+     "points": 8,
      "place": 1
     },
     {
      "team": "УСПЕХ 2012",
      "key": "успех",
-     "played": 3,
+     "played": 5,
      "wins": 2,
-     "losses": 1,
-     "scored": 192,
-     "conceded": 124,
-     "diff": 68,
-     "points": 5,
+     "losses": 3,
+     "scored": 279,
+     "conceded": 225,
+     "diff": 54,
+     "points": 7,
      "place": 2
+    },
+    {
+     "team": "УЛЬТИМАТУМ",
+     "key": "ультиматум",
+     "played": 2,
+     "wins": 2,
+     "losses": 0,
+     "scored": 143,
+     "conceded": 55,
+     "diff": 88,
+     "points": 4,
+     "place": 3
     },
     {
      "team": "СШ №7-1",
@@ -5092,7 +5180,7 @@
      "conceded": 145,
      "diff": 18,
      "points": 4,
-     "place": 3
+     "place": 4
     },
     {
      "team": "РУСИЧ 2012",
@@ -5104,7 +5192,7 @@
      "conceded": 71,
      "diff": 51,
      "points": 3,
-     "place": 4
+     "place": 5
     },
     {
      "team": "УНИВЕРСИТЕТ 2012",
@@ -5116,7 +5204,7 @@
      "conceded": 78,
      "diff": 22,
      "points": 3,
-     "place": 5
+     "place": 6
     },
     {
      "team": "АМТ 2012",
@@ -5128,18 +5216,6 @@
      "conceded": 297,
      "diff": -249,
      "points": 3,
-     "place": 6
-    },
-    {
-     "team": "УЛЬТИМАТУМ",
-     "key": "ультиматум",
-     "played": 1,
-     "wins": 1,
-     "losses": 0,
-     "scored": 92,
-     "conceded": 14,
-     "diff": 78,
-     "points": 2,
      "place": 7
     },
     {

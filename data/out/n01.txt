@@ -1,0 +1,15 @@
+file: p7022_2.jpg
+type: match_card
+date: 21.11.2026 | time: 10:50 | venue: ПАНФИЛОВА 4 | home: ЕРМАК 2012 | away: УСПЕХ 2012 | score: 50:46 | kind: result
+
+file: p7022_3.jpg
+type: match_card
+date: 21.11.2026 | time: 12:10 | venue: ПАНФИЛОВА 4 | home: I.S.B.A. 2016 | away: УЛЬТИМАТУМ | score: 60:4 | kind: result
+
+file: p7022_4.jpg
+type: match_card
+date: 21.11.2026 | time: 13:30 | venue: ПАНФИЛОВА 4 | home: УСПЕХ 2012 | away: УЛЬТИМАТУМ | score: 41:51 | kind: result
+
+file: p7022_5.jpg
+type: match_card
+date: 21.11.2026 | time: 14:50 | venue: ПАНФИЛОВА 4 | home: I.S.B.A. 2016 | away: ИМПУЛЬС 2016 | score: 49:7 | kind: result
